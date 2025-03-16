@@ -1,6 +1,6 @@
 
 class Player:
-    def __init__(self, ID, name, character):
+    def __init__(self, name, profession):
         pass
 
     def __str__(self):
