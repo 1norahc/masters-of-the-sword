@@ -1,26 +1,29 @@
 # Klasy postaci
 class characterClasses:
-    def __init__(self, name, strength, agility, intelligence):
+    def __init__(self, name, strength, agility, intelligence, armor):
         self.name = name
         self.strength = strength
         self.agility = agility
         self.intelligence = intelligence
+        self.armor = armor
 
     def stats(self):
         print(f"Strength: {self.strength}")
         print(f"Agility: {self.agility}")
         print(f"Intelligence: {self.intelligence}")
+        print(f"Armor: {self.armor}")
 
 # Początkowe statystyki max. 20 pkt + 10 do allocate
 CLASS = {
-    "Warrior": characterClasses("Warrior", 12, 5, 3),
-    "Archer" : characterClasses("Archer", 5, 10, 5),
-    "Mage": characterClasses("Mage", 3,5,12)
+    "Warrior": characterClasses("Warrior", 12, 5, 3, 0),
+    "Archer" : characterClasses("Archer", 5, 10, 5, 0),
+    "Mage": characterClasses("Mage", 3,5,12, 0)
 }
 
 def allocate_stats(character):
+    print("====================")
     points_to_allocate = 10
-    print(f"You got {points_to_allocate} to allocate")
+    print(f"You can allocate additional {points_to_allocate} points to your statistics: ")
 
     str_points = int(input("Add Strength: "))
     agi_points = int(input("Add Agility: "))
@@ -35,8 +38,46 @@ def allocate_stats(character):
         else:
             print(f"Total points must be equal to {points_to_allocate}!")
 
+    print("====================")
+    print("Your updated stats: ")
+    character.stats()
+
 # TODO: Wpada w loopa jak źle wpiszemy dane tj: np za dużą ilość punktów XDDDD
 
+# Początkowe itemy do wybrania
+class items:
+    def __init__(self, name, strength, agility, intelligence, armor):
+        self.name = name
+        self.strength = strength
+        self.agility = agility
+        self.intelligence = intelligence
+        self.armor = armor
+
+
+ITEMS = {
+    "Plate Armor": items("Plate Armor", 5, 0, 0, 30),
+    "Leather Armor": items("Leather Armor", 0, 5, 0, 20),
+    "Robe": items("Robe", 0, 0, 5, 10)
+}
+
+
+def choose_item(character):
+    print("====================")
+    print(f"You can choose 1 item from the following: {list(ITEMS.keys())}")
+    chosen_item = input("Choose an item: ")
+    while True:
+        if chosen_item in ITEMS:
+            selected_item = ITEMS[chosen_item]
+            character.strength += selected_item.strength
+            character.agility += selected_item.agility
+            character.intelligence += selected_item.intelligence
+            character.armor += selected_item.armor
+            print(f"You've chosen {selected_item.name}.")
+            print(f"Your stats have been updated!")
+            character.stats()
+            break
+        else:
+            print(f"Choose an item from the following: {list(ITEMS.keys())}")
 
 # Tworzenie postaci
 def create_character():
@@ -61,14 +102,9 @@ def create_character():
     character.stats()
 
 # Dodawanie statystyk
-    print("====================")
-    print("You can allocate additional 10 points to your statistics: ")
     allocate_stats(character)
 
-# Wyświetlanie nowych statystyk
-    print("====================")
-    print("Your updated stats: ")
-    character.stats()
-
+# Wybieranie itemów
+    choose_item(character)
 
 player = create_character()
