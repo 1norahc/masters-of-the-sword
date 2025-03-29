@@ -1,23 +1,25 @@
 # Klasy postaci
-class characterClasses:
-    def __init__(self, name, strength, agility, intelligence, armor):
+class Classes:
+    def __init__(self, name, strength, agility, intelligence, armor, hp):
         self.name = name
         self.strength = strength
         self.agility = agility
         self.intelligence = intelligence
         self.armor = armor
+        self.hp = hp
 
     def stats(self):
         print(f"Strength: {self.strength}")
         print(f"Agility: {self.agility}")
         print(f"Intelligence: {self.intelligence}")
         print(f"Armor: {self.armor}")
+        print(f"HP: {self.hp}")
 
 # Początkowe statystyki max. 20 pkt + 10 do allocate
 CLASS = {
-    "Warrior": characterClasses("Warrior", 12, 5, 3, 0),
-    "Archer" : characterClasses("Archer", 5, 10, 5, 0),
-    "Mage": characterClasses("Mage", 3,5,12, 0)
+    "Warrior": Classes("Warrior", 12, 5, 3, 0, 100),
+    "Archer" : Classes("Archer", 5, 10, 5, 0, 100),
+    "Mage": Classes("Mage", 3, 5, 12, 0, 100)
 }
 
 def allocate_stats(character):
@@ -45,19 +47,20 @@ def allocate_stats(character):
 # TODO: Wpada w loopa jak źle wpiszemy dane tj: np za dużą ilość punktów XDDDD
 
 # Początkowe itemy do wybrania
-class items:
-    def __init__(self, name, strength, agility, intelligence, armor):
+class Items:
+    def __init__(self, name, strength, agility, intelligence, armor, hp):
         self.name = name
         self.strength = strength
         self.agility = agility
         self.intelligence = intelligence
         self.armor = armor
+        self.hp = hp
 
 
 ITEMS = {
-    "Plate Armor": items("Plate Armor", 5, 0, 0, 30),
-    "Leather Armor": items("Leather Armor", 0, 5, 0, 20),
-    "Robe": items("Robe", 0, 0, 5, 10)
+    "Plate Armor": Items("Plate Armor", 5, 0, 0, 30, 100),
+    "Leather Armor": Items("Leather Armor", 0, 5, 0, 20, 75),
+    "Robe": Items("Robe", 0, 0, 5, 10, 50)
 }
 
 
@@ -72,6 +75,7 @@ def choose_item(character):
             character.agility += selected_item.agility
             character.intelligence += selected_item.intelligence
             character.armor += selected_item.armor
+            character.hp += selected_item.hp
             print(f"You've chosen {selected_item.name}.")
             print(f"Your stats have been updated!")
             character.stats()
