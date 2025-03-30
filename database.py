@@ -73,14 +73,14 @@ class Database:
 
 
 # Przykład użycia (opcjonalny, dla demonstracji)
-if __name__ == "__main__":
-    # Tworzy instancję bazy danych z plikiem 'example.json'
-    db = Database("example.json")
-
-    # Dodaje dane do bazy
-    db.update_data("user1", {"name": "Jan", "age": 30})
-    db.update_data("user2", {"name": "Anna", "age": 25})
-
-    # Pobiera i wyświetla dane
-    print(db.get_data("user1"))  # {'name': 'Jan', 'age': 30}
-    print(db.get_data("user3"))  # None
+# if __name__ == "__main__":
+#     # Tworzy instancję bazy danych z plikiem 'example.json'
+#     db = Database("example.json")
+#
+#     # Dodaje dane do bazy
+#     db.update_data("user1", {"name": "Jan", "age": 30})
+#     db.update_data("user2", {"name": "Anna", "age": 25})
+#
+#     # Pobiera i wyświetla dane
+#     print(db.get_data("user1"))  # {'name': 'Jan', 'age': 30}
+#     print(db.get_data("user3"))  # None
