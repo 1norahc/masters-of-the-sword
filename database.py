@@ -31,9 +31,12 @@ class Database:
         Returns:
             dict: Słownik zawierający dane wczytane z pliku JSON.
         """
-        with open(self.filename, 'r') as file:
-            # Deserializuje zawartość pliku JSON do słownika Pythona
-            return json.load(file)
+        try:
+            with open(self.filename, 'r') as file:
+                data = json.load(file)
+                return data if isinstance(data, dict) else {}
+        except (json.JSONDecodeError, FileNotFoundError):
+            return {}  # Jeśli plik jest pusty lub nie istnieje, zwraca pusty słownik
 
     def save_data(self, data):
         """

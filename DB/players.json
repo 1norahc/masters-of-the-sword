@@ -1,0 +1,9 @@
+{
+    "TestUser": {
+        "email": "testuser@example.com",
+        "characters": [
+            "ef0a457c-3d36-456b-b0dd-6da695849c78",
+            "26376b21-e622-44da-96dd-385ee98e1356"
+        ]
+    }
+}
