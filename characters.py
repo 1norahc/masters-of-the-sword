@@ -122,36 +122,5 @@ def create_character():
 
 
 
-class Character:
-    def __init__(self, email, character_class, stats, items):
-        self.email = email
-        self.character_class = character_class
-        self.stats = stats
-        self.items = items
-
-    def add_item(self):
-        pass
-
-    def save_to_json(self, file_name="DB/characters.json"):
-
-        player_data = {
-            "email": self.email,
-            "character_class": self.character_class,
-            "stats": self.stats,
-            "items": self.items
-        }
-        if os.path.exists(file_name):
-            with open(file_name, "r+") as f:
-                data = json.load(f)
-        else:
-            data = []
-
-
-x = Character(
-    Classes("Warrior", 12, 5, 3, 0, 100),
-    Items("Plate Armor", 5, 0, 0, 30, 100)
-)
-
-
 
 

@@ -1,0 +1,12 @@
+[
+    {
+        "email": "test@gmail.com",
+        "character_class": "warrior",
+        "stats": {
+            "strength": 2
+        },
+        "items": [
+            "Zbroja"
+        ]
+    }
+]
