@@ -27,7 +27,7 @@ class Character:
     def add_item(self):
         pass
 
-    def save_to_json(self, file_name="DB/characters.json"):
+    def save_to_json(self, file_name="DB/classes.json"):
         player_data = {
             "email": self.email,
             "character_class": self.character_class,
