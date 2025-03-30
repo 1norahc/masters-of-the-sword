@@ -1,3 +1,9 @@
+
+
+import json
+import os
+
+
 # Klasy postaci
 class Classes:
     def __init__(self, name, strength, agility, intelligence, armor, hp):
@@ -100,15 +106,52 @@ def create_character():
         else:
             print("That class is not available, please choose either Warrior, Archer or Mage")
 
-# Wyświetlenie statystyk
-    print("Your starting statistics:")
-    character = CLASS[class_name]
-    character.stats()
+# # Wyświetlenie statystyk
+#     print("Your starting statistics:")
+#     character = CLASS[class_name]
+#     character.stats()
+#
+# # Dodawanie statystyk
+#     allocate_stats(character)
+#
+# # Wybieranie itemów
+#     choose_item(character)
+#
+# player = create_character()
+#
 
-# Dodawanie statystyk
-    allocate_stats(character)
 
-# Wybieranie itemów
-    choose_item(character)
 
-player = create_character()
+class Character:
+    def __init__(self, email, character_class, stats, items):
+        self.email = email
+        self.character_class = character_class
+        self.stats = stats
+        self.items = items
+
+    def add_item(self):
+        pass
+
+    def save_to_json(self, file_name="DB/characters.json"):
+
+        player_data = {
+            "email": self.email,
+            "character_class": self.character_class,
+            "stats": self.stats,
+            "items": self.items
+        }
+        if os.path.exists(file_name):
+            with open(file_name, "r+") as f:
+                data = json.load(f)
+        else:
+            data = []
+
+
+x = Character(
+    Classes("Warrior", 12, 5, 3, 0, 100),
+    Items("Plate Armor", 5, 0, 0, 30, 100)
+)
+
+
+
+
