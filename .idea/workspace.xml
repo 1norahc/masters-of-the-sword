@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3895be9-da97-4c5b-a0a6-5c64878491fa" name="Changes" comment="New shit here. Add new features to player and creating a db files xd" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="SQL File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="characters" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;1norahc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/1norahc/masters-of-the-sword.git&quot;,
+    &quot;accountId&quot;: &quot;11364915-98d5-421a-9d89-cd2e7df5b440&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2uOivS4rjh4ymcNsDYhNVGBLtap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in player.py.executor": "Run",
+    "Python tests.Python tests in tplayer.py.executor": "Run",
+    "Python.database.executor": "Run",
+    "Python.player.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.user.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "UX/UI",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "database.query.execution",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/e5a07033-faf9-4b98-a50b-e3a391f0ded4/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3895be9-da97-4c5b-a0a6-5c64878491fa" name="Changes" comment="" />
+      <created>1742126251286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742126251286</updated>
+      <workItem from="1742126252346" duration="2614000" />
+      <workItem from="1742128892515" duration="2764000" />
+      <workItem from="1742131758736" duration="3082000" />
+      <workItem from="1743336747101" duration="10871000" />
+      <workItem from="1744119104194" duration="2230000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add test file to GitHub">
+      <option name="closed" value="true" />
+      <created>1742126712425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742126712425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update test files.">
+      <option name="closed" value="true" />
+      <created>1742126961926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742126961926</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update test files.">
+      <option name="closed" value="true" />
+      <created>1742127032381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742127032381</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update README">
+      <option name="closed" value="true" />
+      <created>1742127414520</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742127414520</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Delete test files.">
+      <option name="closed" value="true" />
+      <created>1742127586113</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742127586113</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update README">
+      <option name="closed" value="true" />
+      <created>1742127846311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742127846311</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add requirements file">
+      <option name="closed" value="true" />
+      <created>1742128264502</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742128264502</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update README">
+      <option name="closed" value="true" />
+      <created>1742128561298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742128561298</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add player.py file">
+      <option name="closed" value="true" />
+      <created>1742129885813</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742129885813</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add src directory and main.py file">
+      <option name="closed" value="true" />
+      <created>1742129965268</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742129965268</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create user.py file for creating user object.">
+      <option name="closed" value="true" />
+      <created>1742130194296</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742130194296</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create player.py file for object of player.">
+      <option name="closed" value="true" />
+      <created>1742130305036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742130305036</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update player class">
+      <option name="closed" value="true" />
+      <created>1742130839037</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742130839037</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update player branch readme file">
+      <option name="closed" value="true" />
+      <created>1742131849966</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742131849966</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Create new branch: user">
+      <option name="closed" value="true" />
+      <created>1742131906077</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742131906077</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Create new branch: characters">
+      <option name="closed" value="true" />
+      <created>1742132202934</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742132202934</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add some functionalities to player.py">
+      <option name="closed" value="true" />
+      <created>1742134695245</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742134695245</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add user basic fuctions">
+      <option name="closed" value="true" />
+      <created>1743337692952</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743337692952</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add char basic fuctions">
+      <option name="closed" value="true" />
+      <created>1743341147444</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1743341147444</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add char basic fuctions">
+      <option name="closed" value="true" />
+      <created>1743342451291</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1743342451291</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add char basic fuctions">
+      <option name="closed" value="true" />
+      <created>1743342517055</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1743342517055</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add database operating program to project">
+      <option name="closed" value="true" />
+      <created>1743345844463</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1743345844463</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update db file">
+      <option name="closed" value="true" />
+      <created>1743345930286</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1743345930286</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Working version">
+      <option name="closed" value="true" />
+      <created>1743346470611</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1743346470611</updated>
+    </task>
+    <task id="LOCAL-00025" summary="New shit here. Add new features to player and creating a db files xd">
+      <option name="closed" value="true" />
+      <created>1743348460927</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1743348460927</updated>
+    </task>
+    <task id="LOCAL-00026" summary="New shit here. Add new features to player and creating a db files xd">
+      <option name="closed" value="true" />
+      <created>1744122193530</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1744122193530</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add test file to GitHub" />
+    <MESSAGE value="Update test files." />
+    <MESSAGE value="Delete test files." />
+    <MESSAGE value="Add requirements file" />
+    <MESSAGE value="Update README" />
+    <MESSAGE value="Add player.py file" />
+    <MESSAGE value="Add src directory and main.py file" />
+    <MESSAGE value="Create user.py file for creating user object." />
+    <MESSAGE value="Create player.py file for object of player." />
+    <MESSAGE value="Update player class" />
+    <MESSAGE value="Update player branch readme file" />
+    <MESSAGE value="Create new branch: user" />
+    <MESSAGE value="Create new branch: characters" />
+    <MESSAGE value="Add some functionalities to player.py" />
+    <MESSAGE value="Add user basic fuctions" />
+    <MESSAGE value="Add char basic fuctions" />
+    <MESSAGE value="Add database operating program to project" />
+    <MESSAGE value="update db file" />
+    <MESSAGE value="Working version" />
+    <MESSAGE value="New shit here. Add new features to player and creating a db files xd" />
+    <option name="LAST_COMMIT_MESSAGE" value="New shit here. Add new features to player and creating a db files xd" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/masters_of_the_sword$player.coverage" NAME="player Coverage Results" MODIFIED="1744122019755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/masters_of_the_sword$database.coverage" NAME="database Coverage Results" MODIFIED="1743346061353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/masters_of_the_sword$test.coverage" NAME="test Coverage Results" MODIFIED="1743341279970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/masters_of_the_sword$user.coverage" NAME="user Coverage Results" MODIFIED="1742130158506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/masters_of_the_sword$.coverage" NAME=" Coverage Results" MODIFIED="1744121987953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+  </component>
+</project>

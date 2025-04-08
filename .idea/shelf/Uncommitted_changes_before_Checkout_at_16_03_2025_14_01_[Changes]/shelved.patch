@@ -1,0 +1,11 @@
+Index: player.py
+===================================================================
+diff --git a/player.py b/player.py
+--- a/player.py	(revision 038c4bb9040b39c619205d42566498946f4fb749)
++++ b/player.py	(date 1742130068030)
+@@ -1,0 +1,4 @@
++
++
++class Player:
++    def __init__(self, nickname, 
+\ No newline at end of file
