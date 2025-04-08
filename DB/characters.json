@@ -1,26 +1,12 @@
 {
-    "ef0a457c-3d36-456b-b0dd-6da695849c78": {
-        "id": "ef0a457c-3d36-456b-b0dd-6da695849c78",
+    "bfd0b6c9-f51a-41f1-aaa9-ab65dd32df47": {
+        "id": "bfd0b6c9-f51a-41f1-aaa9-ab65dd32df47",
         "name": "Aragorn",
-        "character":
-        {
-          "class": "Wariorr",
-          "stats": [
-            inteligence : 2,
-            strength : 10
-          ]
-        },
-
+        "character_class": "Warrior",
         "level": 1,
         "gold": 0,
         "silver": 0,
-        "inventory": [
-          "miecz" : {
-            "strenght" : 5,
-            "inteligence": 20,
-            "cost": 250
-          }
-        ],
+        "inventory": [],
         "equipped": {
             "weapon": null,
             "helmet": null,
@@ -29,8 +15,24 @@
             "special": null
         }
     },
-    "26376b21-e622-44da-96dd-385ee98e1356": {
-        "id": "26376b21-e622-44da-96dd-385ee98e1356",
+    "2ced213a-7098-43f3-94fa-99ad74d513d1": {
+        "id": "2ced213a-7098-43f3-94fa-99ad74d513d1",
+        "name": "Gandalf",
+        "character_class": "Mage",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        }
+    },
+    "1ecbc25d-b4df-4f0b-8812-9d6df9463f57": {
+        "id": "1ecbc25d-b4df-4f0b-8812-9d6df9463f57",
         "name": "Gandalf",
         "character_class": "Mage",
         "level": 1,

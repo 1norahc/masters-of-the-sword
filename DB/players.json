@@ -3,7 +3,15 @@
         "email": "testuser@example.com",
         "characters": [
             "ef0a457c-3d36-456b-b0dd-6da695849c78",
-            "26376b21-e622-44da-96dd-385ee98e1356"
+            "26376b21-e622-44da-96dd-385ee98e1356",
+            "bfd0b6c9-f51a-41f1-aaa9-ab65dd32df47",
+            "2ced213a-7098-43f3-94fa-99ad74d513d1"
+        ]
+    },
+    "Arthas": {
+        "email": "arthas@example.com",
+        "characters": [
+            "1ecbc25d-b4df-4f0b-8812-9d6df9463f57"
         ]
     }
 }
