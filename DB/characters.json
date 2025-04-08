@@ -46,5 +46,147 @@
             "belt": null,
             "special": null
         }
+    },
+    "3b3ee113-a780-43ae-872f-ab6f6911f7fb": {
+        "id": "3b3ee113-a780-43ae-872f-ab6f6911f7fb",
+        "name": "Tester123",
+        "character_class": "Warrior",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        }
+    },
+    "15168942-b4e0-427c-8b34-c5609eff2423": {
+        "id": "15168942-b4e0-427c-8b34-c5609eff2423",
+        "name": "Testt",
+        "character_class": "Warrior",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        },
+        "strength": 22,
+        "agility": 7,
+        "intelligence": 6,
+        "armor": 30,
+        "hp": 200
+    },
+    "0a1ea6b5-5706-44c1-aa52-164f7225b970": {
+        "id": "0a1ea6b5-5706-44c1-aa52-164f7225b970",
+        "name": "Testt",
+        "character_class": "Warrior",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        },
+        "strength": 22,
+        "agility": 7,
+        "intelligence": 6,
+        "armor": 30,
+        "hp": 200
+    },
+    "d048e6c7-48e6-4e2a-8a91-dc5464646b21": {
+        "id": "d048e6c7-48e6-4e2a-8a91-dc5464646b21",
+        "name": "Testt",
+        "character_class": "Warrior",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        },
+        "strength": 22,
+        "agility": 7,
+        "intelligence": 6,
+        "armor": 30,
+        "hp": 200
+    },
+    "48b8b4bd-74d2-468e-bef1-026a2c459940": {
+        "id": "48b8b4bd-74d2-468e-bef1-026a2c459940",
+        "name": "Test12",
+        "character_class": "Warrior",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        },
+        "strength": 17,
+        "agility": 12,
+        "intelligence": 6,
+        "armor": 20,
+        "hp": 175
+    },
+    "008f794c-dd23-432f-9647-17229f86f43c": {
+        "id": "008f794c-dd23-432f-9647-17229f86f43c",
+        "name": "PM",
+        "character_class": "Archer",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        },
+        "strength": 8,
+        "agility": 18,
+        "intelligence": 9,
+        "armor": 20,
+        "hp": 175
+    },
+    "a269e804-9ddf-46f5-b635-cf3370f9d3ca": {
+        "id": "a269e804-9ddf-46f5-b635-cf3370f9d3ca",
+        "name": "skibidi",
+        "character_class": "Warrior",
+        "level": 1,
+        "gold": 0,
+        "silver": 0,
+        "inventory": [],
+        "equipped": {
+            "weapon": null,
+            "helmet": null,
+            "gloves": null,
+            "belt": null,
+            "special": null
+        },
+        "strength": 27,
+        "agility": 5,
+        "intelligence": 3,
+        "armor": 30,
+        "hp": 200
     }
 }

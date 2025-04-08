@@ -13,5 +13,23 @@
         "characters": [
             "1ecbc25d-b4df-4f0b-8812-9d6df9463f57"
         ]
+    },
+    "Test": {
+        "email": "rajan@gmail.com",
+        "characters": [
+            "3b3ee113-a780-43ae-872f-ab6f6911f7fb"
+        ]
+    },
+    "test": {
+        "email": "test@test.pl",
+        "characters": [
+            "48b8b4bd-74d2-468e-bef1-026a2c459940",
+            "008f794c-dd23-432f-9647-17229f86f43c",
+            "a269e804-9ddf-46f5-b635-cf3370f9d3ca"
+        ]
+    },
+    "Tester": {
+        "email": "test@test.pl",
+        "characters": []
     }
 }

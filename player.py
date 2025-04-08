@@ -73,11 +73,8 @@ class Player:
         }
 
     def get_characters(self):
-        """
-        Zwraca listę postaci gracza.
-        """
-        return [self.characters_db.get_character(char_id) for char_id in self.data.get("characters", []) if
-                self.characters_db.get_character(char_id)]
+        return [char for char_id in self.data["characters"]
+                if (char := self.characters_db.get_character(char_id)) is not None]
 
     # ----------------------------------------------------------------
 
@@ -242,13 +239,19 @@ class Characters:
         return character.id  # Zwraca ID dodanej postaci
 
     def get_character(self, char_id):
-        """
-        Pobiera postać z bazy danych po ID.
-        """
         data = self.db.get_data(char_id)
-        if data:
-            return Character(**data)
-        return None
+        if not data:
+            return None
+
+        # Sprawdź czy wymagane dane istnieją
+        if "name" not in data or "character_class" not in data:
+            print(f"[WARNING] Pominięto uszkodzoną postać: {char_id}")
+            return None
+
+        char = Character(data["name"], data["character_class"])
+        for key, value in data.items():
+            setattr(char, key, value)
+        return char
 
 
 class User:
