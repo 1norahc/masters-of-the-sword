@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ title if title else "Masters of the Sword" }}</title>
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- Animate.css -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <style>
+    .fade-in { animation: fadeIn 1s ease-in-out; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    /* Style dla drag & drop – wyróżnienie strefy */
+    .drop-zone { border: 2px dashed #ccc; padding: 20px; margin: 10px 0; text-align: center; }
+    .drop-zone.hover { border-color: #007bff; background-color: #f0f8ff; }
+    .draggable { cursor: move; }
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="{{ url_for('main_menu') }}">Masters of the Sword</a>
+  <div class="collapse navbar-collapse">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item"><a class="nav-link" href="{{ url_for('main_menu') }}">Menu Główne</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ url_for('create_character') }}">Utwórz Postać</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ url_for('battle') }}">Walka</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ url_for('inventory') }}">Ekwipunek</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ url_for('equipment') }}">Zarządzanie Ekwipunkiem</a></li>
+    </ul>
+    <span class="navbar-text">
+      {% if session.get('username') %}
+        Zalogowany jako: {{ session['username'] }}
+      {% endif %}
+    </span>
+  </div>
+</nav>
+<div class="container mt-4 fade-in">
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      {% for message in messages %}
+        <div class="alert alert-info">{{ message }}</div>
+      {% endfor %}
+    {% endif %}
+  {% endwith %}
+  {% block content %}{% endblock %}
+</div>
+<!-- Bootstrap JS oraz jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

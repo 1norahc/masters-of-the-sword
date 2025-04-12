@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="mt-4">
+    <h2 class="text-center animate__animated animate__fadeInDown">Ekwipunek</h2>
+    <div class="mt-4">
+      {% if character.inventory %}
+        <ul class="list-group">
+          {% for item in character.inventory %}
+            <li class="list-group-item animate__animated animate__fadeInUp" style="animation-delay: {{ loop.index0 * 0.3 }}s;">
+              {{ item }}
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="text-center">Twój ekwipunek jest pusty.</p>
+      {% endif %}
+    </div>
+    <div class="text-center mt-4">
+      <a href="{{ url_for('main_menu') }}" class="btn btn-primary">Powrót do Menu</a>
+    </div>
+  </div>
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="mx-auto" style="max-width: 500px;">
+    <h2 class="text-center animate__animated animate__fadeInDown">Utwórz Postać</h2>
+    <form method="POST" action="{{ url_for('create_character') }}" class="mt-4">
+      <div class="form-group">
+        <label for="name">Nazwa postaci:</label>
+        <input type="text" name="name" class="form-control" id="name" required>
+      </div>
+      <div class="form-group">
+        <label for="strength">Siła:</label>
+        <input type="number" name="strength" class="form-control" id="strength" min="1" max="20" value="5" required>
+      </div>
+      <div class="form-group">
+        <label for="agility">Zręczność:</label>
+        <input type="number" name="agility" class="form-control" id="agility" min="1" max="20" value="5" required>
+      </div>
+      <div class="form-group">
+        <label for="intelligence">Inteligencja:</label>
+        <input type="number" name="intelligence" class="form-control" id="intelligence" min="1" max="20" value="5" required>
+      </div>
+      <div class="form-group">
+        <label for="armor">Pancerz:</label>
+        <input type="number" name="armor" class="form-control" id="armor" min="1" max="20" value="5" required>
+      </div>
+      <div class="form-group">
+        <label for="hp">Punkty życia:</label>
+        <input type="number" name="hp" class="form-control" id="hp" min="50" max="200" value="100" required>
+      </div>
+      <button type="submit" class="btn btn-success btn-block">Utwórz Postać</button>
+    </form>
+  </div>
+{% endblock %}

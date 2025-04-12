@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block content %}
+  <h2 class="text-center animate__animated animate__fadeInDown">Zarządzanie Ekwipunkiem</h2>
+  <div class="row mt-4">
+    <!-- Sekcja slotów wyposażenia -->
+    <div class="col-md-6">
+      <h4>Sloty wyposażenia</h4>
+      <div id="equipment-slots">
+        {% for slot, item in character.equipment.items() %}
+          <div class="drop-zone" data-slot="{{ slot }}" id="slot-{{ slot }}">
+            <strong>{{ slot.capitalize() }}</strong>: {{ item if item else "Brak" }}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+    <!-- Sekcja inwentarza -->
+    <div class="col-md-6">
+      <h4>Inwentarz</h4>
+      <div id="inventory-items" class="list-group">
+        {% if items %}
+          {% for itm in items %}
+            <div class="list-group-item draggable" draggable="true" data-item="{{ itm }}">
+              {{ itm }}
+            </div>
+          {% endfor %}
+        {% else %}
+          <p>Twój inwentarz jest pusty.</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  <div class="text-center mt-4">
+    <a href="{{ url_for('main_menu') }}" class="btn btn-primary">Powrót do Menu</a>
+  </div>
+
+  <!-- Skrypt JavaScript do obsługi drag & drop oraz AJAX -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Ustaw obsługę drag start dla elementów inwentarza
+      const draggables = document.querySelectorAll(".draggable");
+      draggables.forEach(elem => {
+        elem.addEventListener("dragstart", function(e) {
+          e.dataTransfer.setData("text/plain", elem.getAttribute("data-item"));
+        });
+      });
+
+      // Ustaw obsługę drop dla stref wyposażenia
+      const dropZones = document.querySelectorAll(".drop-zone");
+      dropZones.forEach(zone => {
+        zone.addEventListener("dragover", function(e) {
+          e.preventDefault();
+          zone.classList.add("hover");
+        });
+        zone.addEventListener("dragleave", function(e) {
+          zone.classList.remove("hover");
+        });
+        zone.addEventListener("drop", function(e) {
+          e.preventDefault();
+          zone.classList.remove("hover");
+          const itemName = e.dataTransfer.getData("text/plain");
+          const slot = zone.getAttribute("data-slot");
+          // Wywołanie AJAX do aktualizacji wyposażenia
+          fetch("{{ url_for('update_equipment') }}", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ slot: slot, item: itemName })
+          })
+          .then(response => response.json())
+          .then(data => {
+            if(data.success) {
+              alert(data.message);
+              // Po udanej zmianie, zaktualizuj treść slotu
+              zone.innerHTML = "<strong>" + slot.charAt(0).toUpperCase() + slot.slice(1) + "</strong>: " + itemName;
+            } else {
+              alert("Błąd: " + data.message);
+            }
+          })
+          .catch(error => {
+            alert("Błąd sieciowy: " + error);
+          });
+        });
+      });
+    });
+  </script>
+{% endblock %}

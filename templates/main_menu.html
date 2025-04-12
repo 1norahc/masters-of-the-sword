@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="text-center">
+    <h2 class="animate__animated animate__fadeInDown">Menu Główne</h2>
+    <p>Witamy w grze Masters of the Sword!</p>
+    <div class="list-group mt-4">
+      <a href="{{ url_for('create_character') }}" class="list-group-item list-group-item-action">Utwórz postać</a>
+      <a href="{{ url_for('battle') }}" class="list-group-item list-group-item-action">Rozpocznij walkę</a>
+      <a href="{{ url_for('inventory') }}" class="list-group-item list-group-item-action">Sprawdź ekwipunek</a>
+      <a href="{{ url_for('equipment') }}" class="list-group-item list-group-item-action">Zarządzaj ekwipunkiem</a>
+    </div>
+  </div>
+{% endblock %}

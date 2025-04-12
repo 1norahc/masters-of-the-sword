@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="mt-4">
+    <h2 class="text-center animate__animated animate__fadeInDown">Wynik Walki</h2>
+    <div id="log-container" class="mt-4">
+      {% for line in log %}
+        <p class="animate__animated animate__fadeInUp" style="animation-delay: {{ loop.index0 * 0.5 }}s;">
+          {{ line }}
+        </p>
+      {% endfor %}
+    </div>
+    {% if drop_item %}
+      <div class="alert alert-success mt-4 animate__animated animate__zoomIn">
+        Przedmiot <strong>{{ drop_item }}</strong> został dodany do Twojego ekwipunku!
+      </div>
+    {% endif %}
+    <div class="text-center mt-4">
+      <a href="{{ url_for('main_menu') }}" class="btn btn-primary">Powrót do Menu</a>
+    </div>
+  </div>
+{% endblock %}
