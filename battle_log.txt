@@ -1,0 +1,1197 @@
+=== Battle Logs ===
+[2025-04-08 16:54:35] === AI Battle Started: AI_Warrior vs AI_Mage ===
+[2025-04-08 16:54:35] AI_Warrior deals 15 damage. AI_Mage HP left: 114
+[2025-04-08 16:54:35] AI_Mage deals 11 damage. AI_Warrior HP left: 126
+[2025-04-08 16:54:35] AI_Warrior deals 15 damage. AI_Mage HP left: 99
+[2025-04-08 16:54:35] AI_Mage deals 8 damage. AI_Warrior HP left: 118
+[2025-04-08 16:54:35] AI_Warrior deals 18 damage. AI_Mage HP left: 81
+[2025-04-08 16:54:35] AI_Mage deals 8 damage. AI_Warrior HP left: 110
+[2025-04-08 16:54:35] AI_Warrior deals 15 damage. AI_Mage HP left: 66
+[2025-04-08 16:54:35] AI_Mage deals 9 damage. AI_Warrior HP left: 101
+[2025-04-08 16:54:35] AI_Warrior deals 21 damage. AI_Mage HP left: 45
+[2025-04-08 16:54:35] AI_Mage deals 10 damage. AI_Warrior HP left: 91
+[2025-04-08 16:54:35] AI_Warrior deals 20 damage. AI_Mage HP left: 25
+[2025-04-08 16:54:35] AI_Mage deals 10 damage. AI_Warrior HP left: 81
+[2025-04-08 16:54:35] AI_Warrior deals 20 damage. AI_Mage HP left: 5
+[2025-04-08 16:54:35] AI_Mage deals 10 damage. AI_Warrior HP left: 71
+[2025-04-08 16:54:35] AI_Warrior deals 20 damage. AI_Mage HP left: 0
+[2025-04-08 17:21:46] === Walka rozpoczêta: Test12 vs Bandit ===
+[2025-04-08 17:21:46] Test12 zadaje 18 obra¿eñ. HP Bandit: 82
+[2025-04-08 17:21:46] Bandit zadaje 10 obra¿eñ. HP Test12: 165
+[2025-04-08 17:21:46] Test12 zadaje 22 obra¿eñ. HP Bandit: 60
+[2025-04-08 17:21:46] Bandit zadaje 7 obra¿eñ. HP Test12: 158
+[2025-04-08 17:21:46] Test12 zadaje 25 obra¿eñ. HP Bandit: 35
+[2025-04-08 17:21:46] Bandit zadaje 7 obra¿eñ. HP Test12: 151
+[2025-04-08 17:21:46] Test12 zadaje 23 obra¿eñ. HP Bandit: 12
+[2025-04-08 17:21:46] Bandit zadaje 18 obra¿eñ. HP Test12: 133
+[2025-04-08 17:21:46] Test12 zadaje 22 obra¿eñ. HP Bandit: 0
+[2025-04-08 17:24:28] === Walka rozpoczêta: skibidi vs Bandit ===
+[2025-04-08 17:24:28] skibidi zadaje 31 obra¿eñ. HP Bandit: 69
+[2025-04-08 17:24:28] Bandit zadaje 12 obra¿eñ. HP skibidi: 188
+[2025-04-08 17:24:28] skibidi zadaje 29 obra¿eñ. HP Bandit: 40
+[2025-04-08 17:24:28] Bandit zadaje 6 obra¿eñ. HP skibidi: 182
+[2025-04-08 17:24:28] skibidi zadaje 27 obra¿eñ. HP Bandit: 13
+[2025-04-08 17:24:28] Bandit zadaje 13 obra¿eñ. HP skibidi: 169
+[2025-04-08 17:24:28] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-08 17:24:31] === Walka rozpoczêta: skibidi vs Orc ===
+[2025-04-08 17:24:31] skibidi zadaje 29 obra¿eñ. HP Orc: 121
+[2025-04-08 17:24:31] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-08 17:24:31] skibidi zadaje 28 obra¿eñ. HP Orc: 93
+[2025-04-08 17:24:31] Orc zadaje 13 obra¿eñ. HP skibidi: 173
+[2025-04-08 17:24:31] skibidi zadaje 32 obra¿eñ. HP Orc: 61
+[2025-04-08 17:24:31] Orc zadaje 12 obra¿eñ. HP skibidi: 161
+[2025-04-08 17:24:31] skibidi zadaje 28 obra¿eñ. HP Orc: 33
+[2025-04-08 17:24:31] Orc zadaje 17 obra¿eñ. HP skibidi: 144
+[2025-04-08 17:24:31] skibidi zadaje 29 obra¿eñ. HP Orc: 4
+[2025-04-08 17:24:31] Orc zadaje 13 obra¿eñ. HP skibidi: 131
+[2025-04-08 17:24:31] skibidi zadaje 32 obra¿eñ. HP Orc: 0
+[2025-04-08 17:24:35] === Walka rozpoczêta: skibidi vs Orc ===
+[2025-04-08 17:24:35] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-08 17:24:35] Orc zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-08 17:24:35] skibidi zadaje 32 obra¿eñ. HP Orc: 88
+[2025-04-08 17:24:35] Orc zadaje 14 obra¿eñ. HP skibidi: 173
+[2025-04-08 17:24:35] skibidi zadaje 31 obra¿eñ. HP Orc: 57
+[2025-04-08 17:24:35] Orc zadaje 13 obra¿eñ. HP skibidi: 160
+[2025-04-08 17:24:35] skibidi zadaje 30 obra¿eñ. HP Orc: 27
+[2025-04-08 17:24:35] Orc zadaje 14 obra¿eñ. HP skibidi: 146
+[2025-04-08 17:24:35] skibidi zadaje 32 obra¿eñ. HP Orc: 0
+[2025-04-08 17:24:36] === Walka rozpoczêta: skibidi vs Bandit ===
+[2025-04-08 17:24:36] skibidi zadaje 30 obra¿eñ. HP Bandit: 70
+[2025-04-08 17:24:36] Bandit zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-08 17:24:36] skibidi zadaje 29 obra¿eñ. HP Bandit: 41
+[2025-04-08 17:24:36] Bandit zadaje 7 obra¿eñ. HP skibidi: 186
+[2025-04-08 17:24:36] skibidi zadaje 29 obra¿eñ. HP Bandit: 12
+[2025-04-08 17:24:36] Bandit zadaje 16 obra¿eñ. HP skibidi: 170
+[2025-04-08 17:24:36] skibidi zadaje 31 obra¿eñ. HP Bandit: 0
+[2025-04-08 17:24:37] === Walka rozpoczêta: skibidi vs Orc ===
+[2025-04-08 17:24:37] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-08 17:24:37] Orc zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-08 17:24:37] skibidi zadaje 28 obra¿eñ. HP Orc: 95
+[2025-04-08 17:24:37] Orc zadaje 14 obra¿eñ. HP skibidi: 169
+[2025-04-08 17:24:37] skibidi zadaje 28 obra¿eñ. HP Orc: 67
+[2025-04-08 17:24:37] Orc zadaje 12 obra¿eñ. HP skibidi: 157
+[2025-04-08 17:24:37] skibidi zadaje 28 obra¿eñ. HP Orc: 39
+[2025-04-08 17:24:37] Orc zadaje 15 obra¿eñ. HP skibidi: 142
+[2025-04-08 17:24:37] skibidi zadaje 27 obra¿eñ. HP Orc: 12
+[2025-04-08 17:24:37] Orc zadaje 16 obra¿eñ. HP skibidi: 126
+[2025-04-08 17:24:37] skibidi zadaje 32 obra¿eñ. HP Orc: 0
+[2025-04-13 00:00:12] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:00:12] PM zadaje 10 obra¿eñ. HP Goblin: 40
+[2025-04-13 00:00:12] Goblin zadaje 5 obra¿eñ. HP PM: 170
+[2025-04-13 00:00:12] PM zadaje 22 obra¿eñ. HP Goblin: 18
+[2025-04-13 00:00:12] Goblin zadaje 5 obra¿eñ. HP PM: 165
+[2025-04-13 00:00:12] PM zadaje 16 obra¿eñ. HP Goblin: 2
+[2025-04-13 00:00:12] Goblin zadaje 3 obra¿eñ. HP PM: 162
+[2025-04-13 00:00:12] PM zadaje 9 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:00:15] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:00:15] PM zadaje 10 obra¿eñ. HP Goblin: 40
+[2025-04-13 00:00:15] Goblin zadaje 5 obra¿eñ. HP PM: 170
+[2025-04-13 00:00:15] PM zadaje 18 obra¿eñ. HP Goblin: 22
+[2025-04-13 00:00:15] Goblin zadaje 6 obra¿eñ. HP PM: 164
+[2025-04-13 00:00:15] PM zadaje 11 obra¿eñ. HP Goblin: 11
+[2025-04-13 00:00:15] Goblin zadaje 7 obra¿eñ. HP PM: 157
+[2025-04-13 00:00:15] PM zadaje 24 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:00:15] === Walka rozpoczêta: PM vs Bandit ===
+[2025-04-13 00:00:15] PM zadaje 11 obra¿eñ. HP Bandit: 89
+[2025-04-13 00:00:15] Bandit zadaje 9 obra¿eñ. HP PM: 166
+[2025-04-13 00:00:15] PM zadaje 19 obra¿eñ. HP Bandit: 70
+[2025-04-13 00:00:15] Bandit zadaje 6 obra¿eñ. HP PM: 160
+[2025-04-13 00:00:15] PM zadaje 14 obra¿eñ. HP Bandit: 56
+[2025-04-13 00:00:15] Bandit zadaje 11 obra¿eñ. HP PM: 149
+[2025-04-13 00:00:15] PM zadaje 12 obra¿eñ. HP Bandit: 44
+[2025-04-13 00:00:15] Bandit zadaje 8 obra¿eñ. HP PM: 141
+[2025-04-13 00:00:15] PM zadaje 8 obra¿eñ. HP Bandit: 36
+[2025-04-13 00:00:15] Bandit zadaje 10 obra¿eñ. HP PM: 131
+[2025-04-13 00:00:15] PM zadaje 25 obra¿eñ. HP Bandit: 11
+[2025-04-13 00:00:15] Bandit zadaje 14 obra¿eñ. HP PM: 117
+[2025-04-13 00:00:15] PM zadaje 19 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:00:16] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:00:16] PM zadaje 13 obra¿eñ. HP Goblin: 37
+[2025-04-13 00:00:16] Goblin zadaje 5 obra¿eñ. HP PM: 170
+[2025-04-13 00:00:16] PM zadaje 8 obra¿eñ. HP Goblin: 29
+[2025-04-13 00:00:16] Goblin zadaje 6 obra¿eñ. HP PM: 164
+[2025-04-13 00:00:16] PM zadaje 9 obra¿eñ. HP Goblin: 20
+[2025-04-13 00:00:16] Goblin zadaje 6 obra¿eñ. HP PM: 158
+[2025-04-13 00:00:16] PM zadaje 17 obra¿eñ. HP Goblin: 3
+[2025-04-13 00:00:16] Goblin zadaje 7 obra¿eñ. HP PM: 151
+[2025-04-13 00:00:16] PM zadaje 23 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:00:17] === Walka rozpoczêta: PM vs Orc ===
+[2025-04-13 00:00:17] PM zadaje 13 obra¿eñ. HP Orc: 137
+[2025-04-13 00:00:17] Orc zadaje 13 obra¿eñ. HP PM: 162
+[2025-04-13 00:00:17] PM zadaje 24 obra¿eñ. HP Orc: 113
+[2025-04-13 00:00:17] Orc zadaje 16 obra¿eñ. HP PM: 146
+[2025-04-13 00:00:17] PM zadaje 14 obra¿eñ. HP Orc: 99
+[2025-04-13 00:00:17] Orc zadaje 13 obra¿eñ. HP PM: 133
+[2025-04-13 00:00:17] PM zadaje 12 obra¿eñ. HP Orc: 87
+[2025-04-13 00:00:17] Orc zadaje 17 obra¿eñ. HP PM: 116
+[2025-04-13 00:00:17] PM zadaje 12 obra¿eñ. HP Orc: 75
+[2025-04-13 00:00:17] Orc zadaje 15 obra¿eñ. HP PM: 101
+[2025-04-13 00:00:17] PM zadaje 23 obra¿eñ. HP Orc: 52
+[2025-04-13 00:00:17] Orc zadaje 15 obra¿eñ. HP PM: 86
+[2025-04-13 00:00:17] PM zadaje 24 obra¿eñ. HP Orc: 28
+[2025-04-13 00:00:17] Orc zadaje 13 obra¿eñ. HP PM: 73
+[2025-04-13 00:00:17] PM zadaje 14 obra¿eñ. HP Orc: 14
+[2025-04-13 00:00:17] Orc zadaje 13 obra¿eñ. HP PM: 60
+[2025-04-13 00:00:17] PM zadaje 19 obra¿eñ. HP Orc: 0
+[2025-04-13 00:00:20] === Walka rozpoczêta: PM vs Orc ===
+[2025-04-13 00:00:20] PM zadaje 8 obra¿eñ. HP Orc: 142
+[2025-04-13 00:00:20] Orc zadaje 15 obra¿eñ. HP PM: 160
+[2025-04-13 00:00:20] PM zadaje 18 obra¿eñ. HP Orc: 124
+[2025-04-13 00:00:20] Orc zadaje 14 obra¿eñ. HP PM: 146
+[2025-04-13 00:00:20] PM zadaje 21 obra¿eñ. HP Orc: 103
+[2025-04-13 00:00:20] Orc zadaje 12 obra¿eñ. HP PM: 134
+[2025-04-13 00:00:20] PM zadaje 15 obra¿eñ. HP Orc: 88
+[2025-04-13 00:00:20] Orc zadaje 12 obra¿eñ. HP PM: 122
+[2025-04-13 00:00:20] PM zadaje 11 obra¿eñ. HP Orc: 77
+[2025-04-13 00:00:20] Orc zadaje 13 obra¿eñ. HP PM: 109
+[2025-04-13 00:00:20] PM zadaje 8 obra¿eñ. HP Orc: 69
+[2025-04-13 00:00:20] Orc zadaje 16 obra¿eñ. HP PM: 93
+[2025-04-13 00:00:20] PM zadaje 17 obra¿eñ. HP Orc: 52
+[2025-04-13 00:00:20] Orc zadaje 13 obra¿eñ. HP PM: 80
+[2025-04-13 00:00:20] PM zadaje 20 obra¿eñ. HP Orc: 32
+[2025-04-13 00:00:20] Orc zadaje 16 obra¿eñ. HP PM: 64
+[2025-04-13 00:00:20] PM zadaje 21 obra¿eñ. HP Orc: 11
+[2025-04-13 00:00:20] Orc zadaje 13 obra¿eñ. HP PM: 51
+[2025-04-13 00:00:20] PM zadaje 8 obra¿eñ. HP Orc: 3
+[2025-04-13 00:00:20] Orc zadaje 16 obra¿eñ. HP PM: 35
+[2025-04-13 00:00:20] PM zadaje 15 obra¿eñ. HP Orc: 0
+[2025-04-13 00:03:43] === Walka rozpoczêta: PM vs Bandit ===
+[2025-04-13 00:03:43] PM zadaje 21 obra¿eñ. HP Bandit: 79
+[2025-04-13 00:03:43] Bandit zadaje 9 obra¿eñ. HP PM: 166
+[2025-04-13 00:03:43] PM zadaje 8 obra¿eñ. HP Bandit: 71
+[2025-04-13 00:03:43] Bandit zadaje 18 obra¿eñ. HP PM: 148
+[2025-04-13 00:03:43] PM zadaje 21 obra¿eñ. HP Bandit: 50
+[2025-04-13 00:03:43] Bandit zadaje 16 obra¿eñ. HP PM: 132
+[2025-04-13 00:03:43] PM zadaje 24 obra¿eñ. HP Bandit: 26
+[2025-04-13 00:03:43] Bandit zadaje 9 obra¿eñ. HP PM: 123
+[2025-04-13 00:03:43] PM zadaje 20 obra¿eñ. HP Bandit: 6
+[2025-04-13 00:03:43] Bandit zadaje 7 obra¿eñ. HP PM: 116
+[2025-04-13 00:03:43] PM zadaje 21 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:03:45] === Walka rozpoczêta: PM vs Bandit ===
+[2025-04-13 00:03:45] PM zadaje 16 obra¿eñ. HP Bandit: 84
+[2025-04-13 00:03:45] Bandit zadaje 9 obra¿eñ. HP PM: 166
+[2025-04-13 00:03:45] PM zadaje 13 obra¿eñ. HP Bandit: 71
+[2025-04-13 00:03:45] Bandit zadaje 17 obra¿eñ. HP PM: 149
+[2025-04-13 00:03:45] PM zadaje 14 obra¿eñ. HP Bandit: 57
+[2025-04-13 00:03:45] Bandit zadaje 14 obra¿eñ. HP PM: 135
+[2025-04-13 00:03:45] PM zadaje 24 obra¿eñ. HP Bandit: 33
+[2025-04-13 00:03:45] Bandit zadaje 7 obra¿eñ. HP PM: 128
+[2025-04-13 00:03:45] PM zadaje 24 obra¿eñ. HP Bandit: 9
+[2025-04-13 00:03:45] Bandit zadaje 18 obra¿eñ. HP PM: 110
+[2025-04-13 00:03:45] PM zadaje 22 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:03:46] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:03:46] PM zadaje 13 obra¿eñ. HP Goblin: 37
+[2025-04-13 00:03:46] Goblin zadaje 3 obra¿eñ. HP PM: 172
+[2025-04-13 00:03:46] PM zadaje 21 obra¿eñ. HP Goblin: 16
+[2025-04-13 00:03:46] Goblin zadaje 4 obra¿eñ. HP PM: 168
+[2025-04-13 00:03:46] PM zadaje 25 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:03:48] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:03:48] PM zadaje 19 obra¿eñ. HP Goblin: 31
+[2025-04-13 00:03:48] Goblin zadaje 5 obra¿eñ. HP PM: 170
+[2025-04-13 00:03:48] PM zadaje 26 obra¿eñ. HP Goblin: 5
+[2025-04-13 00:03:48] Goblin zadaje 3 obra¿eñ. HP PM: 167
+[2025-04-13 00:03:48] PM zadaje 9 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:03:48] === Walka rozpoczêta: PM vs Orc ===
+[2025-04-13 00:03:48] PM zadaje 9 obra¿eñ. HP Orc: 141
+[2025-04-13 00:03:48] Orc zadaje 17 obra¿eñ. HP PM: 158
+[2025-04-13 00:03:48] PM zadaje 8 obra¿eñ. HP Orc: 133
+[2025-04-13 00:03:48] Orc zadaje 14 obra¿eñ. HP PM: 144
+[2025-04-13 00:03:48] PM zadaje 20 obra¿eñ. HP Orc: 113
+[2025-04-13 00:03:48] Orc zadaje 16 obra¿eñ. HP PM: 128
+[2025-04-13 00:03:48] PM zadaje 12 obra¿eñ. HP Orc: 101
+[2025-04-13 00:03:48] Orc zadaje 17 obra¿eñ. HP PM: 111
+[2025-04-13 00:03:48] PM zadaje 15 obra¿eñ. HP Orc: 86
+[2025-04-13 00:03:48] Orc zadaje 15 obra¿eñ. HP PM: 96
+[2025-04-13 00:03:48] PM zadaje 20 obra¿eñ. HP Orc: 66
+[2025-04-13 00:03:48] Orc zadaje 12 obra¿eñ. HP PM: 84
+[2025-04-13 00:03:48] PM zadaje 19 obra¿eñ. HP Orc: 47
+[2025-04-13 00:03:48] Orc zadaje 13 obra¿eñ. HP PM: 71
+[2025-04-13 00:03:48] PM zadaje 11 obra¿eñ. HP Orc: 36
+[2025-04-13 00:03:48] Orc zadaje 16 obra¿eñ. HP PM: 55
+[2025-04-13 00:03:48] PM zadaje 18 obra¿eñ. HP Orc: 18
+[2025-04-13 00:03:48] Orc zadaje 17 obra¿eñ. HP PM: 38
+[2025-04-13 00:03:48] PM zadaje 18 obra¿eñ. HP Orc: 0
+[2025-04-13 00:03:55] === Walka rozpoczêta: PM vs Orc ===
+[2025-04-13 00:03:55] PM zadaje 15 obra¿eñ. HP Orc: 135
+[2025-04-13 00:03:55] Orc zadaje 13 obra¿eñ. HP PM: 162
+[2025-04-13 00:03:55] PM zadaje 25 obra¿eñ. HP Orc: 110
+[2025-04-13 00:03:55] Orc zadaje 16 obra¿eñ. HP PM: 146
+[2025-04-13 00:03:55] PM zadaje 18 obra¿eñ. HP Orc: 92
+[2025-04-13 00:03:55] Orc zadaje 14 obra¿eñ. HP PM: 132
+[2025-04-13 00:03:55] PM zadaje 9 obra¿eñ. HP Orc: 83
+[2025-04-13 00:03:55] Orc zadaje 14 obra¿eñ. HP PM: 118
+[2025-04-13 00:03:55] PM zadaje 14 obra¿eñ. HP Orc: 69
+[2025-04-13 00:03:55] Orc zadaje 13 obra¿eñ. HP PM: 105
+[2025-04-13 00:03:55] PM zadaje 11 obra¿eñ. HP Orc: 58
+[2025-04-13 00:03:55] Orc zadaje 15 obra¿eñ. HP PM: 90
+[2025-04-13 00:03:55] PM zadaje 11 obra¿eñ. HP Orc: 47
+[2025-04-13 00:03:55] Orc zadaje 13 obra¿eñ. HP PM: 77
+[2025-04-13 00:03:55] PM zadaje 12 obra¿eñ. HP Orc: 35
+[2025-04-13 00:03:55] Orc zadaje 14 obra¿eñ. HP PM: 63
+[2025-04-13 00:03:55] PM zadaje 18 obra¿eñ. HP Orc: 17
+[2025-04-13 00:03:55] Orc zadaje 13 obra¿eñ. HP PM: 50
+[2025-04-13 00:03:55] PM zadaje 24 obra¿eñ. HP Orc: 0
+[2025-04-13 00:03:58] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:03:58] PM zadaje 21 obra¿eñ. HP Goblin: 29
+[2025-04-13 00:03:58] Goblin zadaje 5 obra¿eñ. HP PM: 170
+[2025-04-13 00:03:58] PM zadaje 12 obra¿eñ. HP Goblin: 17
+[2025-04-13 00:03:58] Goblin zadaje 5 obra¿eñ. HP PM: 165
+[2025-04-13 00:03:58] PM zadaje 8 obra¿eñ. HP Goblin: 9
+[2025-04-13 00:03:58] Goblin zadaje 7 obra¿eñ. HP PM: 158
+[2025-04-13 00:03:58] PM zadaje 15 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:03:59] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:03:59] PM zadaje 13 obra¿eñ. HP Goblin: 37
+[2025-04-13 00:03:59] Goblin zadaje 7 obra¿eñ. HP PM: 168
+[2025-04-13 00:03:59] PM zadaje 24 obra¿eñ. HP Goblin: 13
+[2025-04-13 00:03:59] Goblin zadaje 5 obra¿eñ. HP PM: 163
+[2025-04-13 00:03:59] PM zadaje 24 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:04:00] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:04:00] PM zadaje 17 obra¿eñ. HP Goblin: 33
+[2025-04-13 00:04:00] Goblin zadaje 5 obra¿eñ. HP PM: 170
+[2025-04-13 00:04:00] PM zadaje 9 obra¿eñ. HP Goblin: 24
+[2025-04-13 00:04:00] Goblin zadaje 6 obra¿eñ. HP PM: 164
+[2025-04-13 00:04:00] PM zadaje 16 obra¿eñ. HP Goblin: 8
+[2025-04-13 00:04:00] Goblin zadaje 6 obra¿eñ. HP PM: 158
+[2025-04-13 00:04:00] PM zadaje 24 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:04:00] === Walka rozpoczêta: PM vs Goblin ===
+[2025-04-13 00:04:00] PM zadaje 22 obra¿eñ. HP Goblin: 28
+[2025-04-13 00:04:00] Goblin zadaje 8 obra¿eñ. HP PM: 167
+[2025-04-13 00:04:00] PM zadaje 18 obra¿eñ. HP Goblin: 10
+[2025-04-13 00:04:00] Goblin zadaje 8 obra¿eñ. HP PM: 159
+[2025-04-13 00:04:00] PM zadaje 20 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:04:01] === Walka rozpoczêta: PM vs Orc ===
+[2025-04-13 00:04:01] PM zadaje 15 obra¿eñ. HP Orc: 135
+[2025-04-13 00:04:01] Orc zadaje 15 obra¿eñ. HP PM: 160
+[2025-04-13 00:04:01] PM zadaje 22 obra¿eñ. HP Orc: 113
+[2025-04-13 00:04:01] Orc zadaje 13 obra¿eñ. HP PM: 147
+[2025-04-13 00:04:01] PM zadaje 22 obra¿eñ. HP Orc: 91
+[2025-04-13 00:04:01] Orc zadaje 14 obra¿eñ. HP PM: 133
+[2025-04-13 00:04:01] PM zadaje 19 obra¿eñ. HP Orc: 72
+[2025-04-13 00:04:01] Orc zadaje 12 obra¿eñ. HP PM: 121
+[2025-04-13 00:04:01] PM zadaje 19 obra¿eñ. HP Orc: 53
+[2025-04-13 00:04:01] Orc zadaje 12 obra¿eñ. HP PM: 109
+[2025-04-13 00:04:01] PM zadaje 24 obra¿eñ. HP Orc: 29
+[2025-04-13 00:04:01] Orc zadaje 12 obra¿eñ. HP PM: 97
+[2025-04-13 00:04:01] PM zadaje 14 obra¿eñ. HP Orc: 15
+[2025-04-13 00:04:01] Orc zadaje 17 obra¿eñ. HP PM: 80
+[2025-04-13 00:04:01] PM zadaje 10 obra¿eñ. HP Orc: 5
+[2025-04-13 00:04:01] Orc zadaje 12 obra¿eñ. HP PM: 68
+[2025-04-13 00:04:01] PM zadaje 11 obra¿eñ. HP Orc: 0
+[2025-04-13 00:04:05] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:05] PM zadaje 11 obra¿eñ. HP Bot Easy: 39
+[2025-04-13 00:04:05] Bot Easy zadaje 5 obra¿eñ. HP PM: 170
+[2025-04-13 00:04:05] PM zadaje 22 obra¿eñ. HP Bot Easy: 17
+[2025-04-13 00:04:05] Bot Easy zadaje 5 obra¿eñ. HP PM: 165
+[2025-04-13 00:04:05] PM zadaje 25 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:06] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:06] PM zadaje 9 obra¿eñ. HP Bot Easy: 41
+[2025-04-13 00:04:06] Bot Easy zadaje 6 obra¿eñ. HP PM: 169
+[2025-04-13 00:04:06] PM zadaje 9 obra¿eñ. HP Bot Easy: 32
+[2025-04-13 00:04:06] Bot Easy zadaje 6 obra¿eñ. HP PM: 163
+[2025-04-13 00:04:06] PM zadaje 13 obra¿eñ. HP Bot Easy: 19
+[2025-04-13 00:04:06] Bot Easy zadaje 6 obra¿eñ. HP PM: 157
+[2025-04-13 00:04:06] PM zadaje 8 obra¿eñ. HP Bot Easy: 11
+[2025-04-13 00:04:06] Bot Easy zadaje 6 obra¿eñ. HP PM: 151
+[2025-04-13 00:04:06] PM zadaje 17 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:08] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:08] PM zadaje 18 obra¿eñ. HP Bot Easy: 32
+[2025-04-13 00:04:08] Bot Easy zadaje 7 obra¿eñ. HP PM: 168
+[2025-04-13 00:04:08] PM zadaje 18 obra¿eñ. HP Bot Easy: 14
+[2025-04-13 00:04:08] Bot Easy zadaje 7 obra¿eñ. HP PM: 161
+[2025-04-13 00:04:08] PM zadaje 20 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:10] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:10] PM zadaje 13 obra¿eñ. HP Bot Easy: 37
+[2025-04-13 00:04:10] Bot Easy zadaje 6 obra¿eñ. HP PM: 169
+[2025-04-13 00:04:10] PM zadaje 9 obra¿eñ. HP Bot Easy: 28
+[2025-04-13 00:04:10] Bot Easy zadaje 6 obra¿eñ. HP PM: 163
+[2025-04-13 00:04:10] PM zadaje 21 obra¿eñ. HP Bot Easy: 7
+[2025-04-13 00:04:10] Bot Easy zadaje 6 obra¿eñ. HP PM: 157
+[2025-04-13 00:04:10] PM zadaje 22 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:11] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:11] PM zadaje 16 obra¿eñ. HP Bot Easy: 34
+[2025-04-13 00:04:11] Bot Easy zadaje 6 obra¿eñ. HP PM: 169
+[2025-04-13 00:04:11] PM zadaje 16 obra¿eñ. HP Bot Easy: 18
+[2025-04-13 00:04:11] Bot Easy zadaje 6 obra¿eñ. HP PM: 163
+[2025-04-13 00:04:11] PM zadaje 25 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:12] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:12] PM zadaje 24 obra¿eñ. HP Bot Easy: 26
+[2025-04-13 00:04:12] Bot Easy zadaje 7 obra¿eñ. HP PM: 168
+[2025-04-13 00:04:12] PM zadaje 13 obra¿eñ. HP Bot Easy: 13
+[2025-04-13 00:04:12] Bot Easy zadaje 7 obra¿eñ. HP PM: 161
+[2025-04-13 00:04:12] PM zadaje 17 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:12] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:12] PM zadaje 13 obra¿eñ. HP Bot Easy: 37
+[2025-04-13 00:04:12] Bot Easy zadaje 7 obra¿eñ. HP PM: 168
+[2025-04-13 00:04:12] PM zadaje 23 obra¿eñ. HP Bot Easy: 14
+[2025-04-13 00:04:12] Bot Easy zadaje 7 obra¿eñ. HP PM: 161
+[2025-04-13 00:04:12] PM zadaje 9 obra¿eñ. HP Bot Easy: 5
+[2025-04-13 00:04:12] Bot Easy zadaje 7 obra¿eñ. HP PM: 154
+[2025-04-13 00:04:12] PM zadaje 26 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:13] === Walka rozpoczêta: PM vs Bot Easy ===
+[2025-04-13 00:04:13] PM zadaje 25 obra¿eñ. HP Bot Easy: 25
+[2025-04-13 00:04:13] Bot Easy zadaje 7 obra¿eñ. HP PM: 168
+[2025-04-13 00:04:13] PM zadaje 10 obra¿eñ. HP Bot Easy: 15
+[2025-04-13 00:04:13] Bot Easy zadaje 7 obra¿eñ. HP PM: 161
+[2025-04-13 00:04:13] PM zadaje 26 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:04:16] === Walka rozpoczêta: PM vs Bot Hard ===
+[2025-04-13 00:04:16] PM zadaje 12 obra¿eñ. HP Bot Hard: 78
+[2025-04-13 00:04:16] Bot Hard zadaje 15 obra¿eñ. HP PM: 160
+[2025-04-13 00:04:16] PM zadaje 21 obra¿eñ. HP Bot Hard: 57
+[2025-04-13 00:04:16] Bot Hard zadaje 15 obra¿eñ. HP PM: 145
+[2025-04-13 00:04:16] PM zadaje 13 obra¿eñ. HP Bot Hard: 44
+[2025-04-13 00:04:16] Bot Hard zadaje 15 obra¿eñ. HP PM: 130
+[2025-04-13 00:04:16] PM zadaje 15 obra¿eñ. HP Bot Hard: 29
+[2025-04-13 00:04:16] Bot Hard zadaje 15 obra¿eñ. HP PM: 115
+[2025-04-13 00:04:16] PM zadaje 17 obra¿eñ. HP Bot Hard: 12
+[2025-04-13 00:04:16] Bot Hard zadaje 15 obra¿eñ. HP PM: 100
+[2025-04-13 00:04:16] PM zadaje 26 obra¿eñ. HP Bot Hard: 0
+[2025-04-13 00:04:17] === Walka rozpoczêta: PM vs Bot Hard ===
+[2025-04-13 00:04:17] PM zadaje 19 obra¿eñ. HP Bot Hard: 71
+[2025-04-13 00:04:17] Bot Hard zadaje 15 obra¿eñ. HP PM: 160
+[2025-04-13 00:04:17] PM zadaje 17 obra¿eñ. HP Bot Hard: 54
+[2025-04-13 00:04:17] Bot Hard zadaje 15 obra¿eñ. HP PM: 145
+[2025-04-13 00:04:17] PM zadaje 18 obra¿eñ. HP Bot Hard: 36
+[2025-04-13 00:04:17] Bot Hard zadaje 15 obra¿eñ. HP PM: 130
+[2025-04-13 00:04:17] PM zadaje 24 obra¿eñ. HP Bot Hard: 12
+[2025-04-13 00:04:17] Bot Hard zadaje 15 obra¿eñ. HP PM: 115
+[2025-04-13 00:04:17] PM zadaje 9 obra¿eñ. HP Bot Hard: 3
+[2025-04-13 00:04:17] Bot Hard zadaje 15 obra¿eñ. HP PM: 100
+[2025-04-13 00:04:17] PM zadaje 23 obra¿eñ. HP Bot Hard: 0
+[2025-04-13 00:04:19] === Walka rozpoczêta: PM vs Bot Hard ===
+[2025-04-13 00:04:19] PM zadaje 18 obra¿eñ. HP Bot Hard: 72
+[2025-04-13 00:04:19] Bot Hard zadaje 14 obra¿eñ. HP PM: 161
+[2025-04-13 00:04:19] PM zadaje 16 obra¿eñ. HP Bot Hard: 56
+[2025-04-13 00:04:19] Bot Hard zadaje 14 obra¿eñ. HP PM: 147
+[2025-04-13 00:04:19] PM zadaje 10 obra¿eñ. HP Bot Hard: 46
+[2025-04-13 00:04:19] Bot Hard zadaje 14 obra¿eñ. HP PM: 133
+[2025-04-13 00:04:19] PM zadaje 13 obra¿eñ. HP Bot Hard: 33
+[2025-04-13 00:04:19] Bot Hard zadaje 14 obra¿eñ. HP PM: 119
+[2025-04-13 00:04:19] PM zadaje 8 obra¿eñ. HP Bot Hard: 25
+[2025-04-13 00:04:19] Bot Hard zadaje 14 obra¿eñ. HP PM: 105
+[2025-04-13 00:04:19] PM zadaje 18 obra¿eñ. HP Bot Hard: 7
+[2025-04-13 00:04:19] Bot Hard zadaje 14 obra¿eñ. HP PM: 91
+[2025-04-13 00:04:19] PM zadaje 15 obra¿eñ. HP Bot Hard: 0
+[2025-04-13 00:04:20] === Walka rozpoczêta: PM vs Bot Hard ===
+[2025-04-13 00:04:20] PM zadaje 21 obra¿eñ. HP Bot Hard: 69
+[2025-04-13 00:04:20] Bot Hard zadaje 15 obra¿eñ. HP PM: 160
+[2025-04-13 00:04:20] PM zadaje 14 obra¿eñ. HP Bot Hard: 55
+[2025-04-13 00:04:20] Bot Hard zadaje 15 obra¿eñ. HP PM: 145
+[2025-04-13 00:04:20] PM zadaje 12 obra¿eñ. HP Bot Hard: 43
+[2025-04-13 00:04:20] Bot Hard zadaje 15 obra¿eñ. HP PM: 130
+[2025-04-13 00:04:20] PM zadaje 13 obra¿eñ. HP Bot Hard: 30
+[2025-04-13 00:04:20] Bot Hard zadaje 15 obra¿eñ. HP PM: 115
+[2025-04-13 00:04:20] PM zadaje 12 obra¿eñ. HP Bot Hard: 18
+[2025-04-13 00:04:20] Bot Hard zadaje 15 obra¿eñ. HP PM: 100
+[2025-04-13 00:04:20] PM zadaje 18 obra¿eñ. HP Bot Hard: 0
+[2025-04-13 00:04:21] === Walka rozpoczêta: PM vs Bot Hard ===
+[2025-04-13 00:04:21] PM zadaje 26 obra¿eñ. HP Bot Hard: 64
+[2025-04-13 00:04:21] Bot Hard zadaje 9 obra¿eñ. HP PM: 166
+[2025-04-13 00:04:21] PM zadaje 12 obra¿eñ. HP Bot Hard: 52
+[2025-04-13 00:04:21] Bot Hard zadaje 9 obra¿eñ. HP PM: 157
+[2025-04-13 00:04:21] PM zadaje 9 obra¿eñ. HP Bot Hard: 43
+[2025-04-13 00:04:21] Bot Hard zadaje 9 obra¿eñ. HP PM: 148
+[2025-04-13 00:04:21] PM zadaje 11 obra¿eñ. HP Bot Hard: 32
+[2025-04-13 00:04:21] Bot Hard zadaje 9 obra¿eñ. HP PM: 139
+[2025-04-13 00:04:21] PM zadaje 22 obra¿eñ. HP Bot Hard: 10
+[2025-04-13 00:04:21] Bot Hard zadaje 9 obra¿eñ. HP PM: 130
+[2025-04-13 00:04:21] PM zadaje 20 obra¿eñ. HP Bot Hard: 0
+[2025-04-13 00:08:53] Walka: skibidi vs Bandit
+[2025-04-13 00:08:53] Bandit zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:08:53] skibidi zadaje 28 obra¿eñ. HP Bandit: 72
+[2025-04-13 00:08:53] skibidi zadaje 27 obra¿eñ. HP Bandit: 45
+[2025-04-13 00:08:53] Bandit zadaje 11 obra¿eñ. HP skibidi: 182
+[2025-04-13 00:08:53] skibidi zadaje 29 obra¿eñ. HP Bandit: 16
+[2025-04-13 00:08:53] Bandit zadaje 9 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:08:53] Bandit zadaje 17 obra¿eñ. HP skibidi: 156
+[2025-04-13 00:08:53] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:08:54] Walka: skibidi vs Orc
+[2025-04-13 00:08:54] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:08:54] skibidi zadaje 28 obra¿eñ. HP Orc: 122
+[2025-04-13 00:08:54] skibidi zadaje 31 obra¿eñ. HP Orc: 91
+[2025-04-13 00:08:54] Orc zadaje 17 obra¿eñ. HP skibidi: 169
+[2025-04-13 00:08:54] skibidi zadaje 28 obra¿eñ. HP Orc: 63
+[2025-04-13 00:08:54] Orc zadaje 16 obra¿eñ. HP skibidi: 153
+[2025-04-13 00:08:54] skibidi zadaje 27 obra¿eñ. HP Orc: 36
+[2025-04-13 00:08:54] Orc zadaje 15 obra¿eñ. HP skibidi: 138
+[2025-04-13 00:08:54] Orc zadaje 15 obra¿eñ. HP skibidi: 123
+[2025-04-13 00:08:54] skibidi zadaje 31 obra¿eñ. HP Orc: 5
+[2025-04-13 00:08:54] Orc zadaje 12 obra¿eñ. HP skibidi: 111
+[2025-04-13 00:08:54] skibidi zadaje 28 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:55] Walka: skibidi vs Bandit
+[2025-04-13 00:08:55] skibidi zadaje 29 obra¿eñ. HP Bandit: 71
+[2025-04-13 00:08:55] Bandit zadaje 9 obra¿eñ. HP skibidi: 191
+[2025-04-13 00:08:55] skibidi zadaje 32 obra¿eñ. HP Bandit: 39
+[2025-04-13 00:08:55] Bandit zadaje 9 obra¿eñ. HP skibidi: 182
+[2025-04-13 00:08:55] Bandit zadaje 17 obra¿eñ. HP skibidi: 165
+[2025-04-13 00:08:55] skibidi zadaje 29 obra¿eñ. HP Bandit: 10
+[2025-04-13 00:08:55] Bandit zadaje 16 obra¿eñ. HP skibidi: 149
+[2025-04-13 00:08:55] skibidi zadaje 28 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:08:56] Walka: skibidi vs Bandit
+[2025-04-13 00:08:56] skibidi zadaje 27 obra¿eñ. HP Bandit: 73
+[2025-04-13 00:08:56] Bandit zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:08:56] Bandit zadaje 12 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:08:56] skibidi zadaje 32 obra¿eñ. HP Bandit: 41
+[2025-04-13 00:08:56] Bandit zadaje 11 obra¿eñ. HP skibidi: 160
+[2025-04-13 00:08:56] skibidi zadaje 32 obra¿eñ. HP Bandit: 9
+[2025-04-13 00:08:56] Bandit zadaje 13 obra¿eñ. HP skibidi: 147
+[2025-04-13 00:08:56] skibidi zadaje 31 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:08:57] Walka: skibidi vs Orc
+[2025-04-13 00:08:57] skibidi zadaje 31 obra¿eñ. HP Orc: 119
+[2025-04-13 00:08:57] Orc zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 89
+[2025-04-13 00:08:57] Orc zadaje 12 obra¿eñ. HP skibidi: 175
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 59
+[2025-04-13 00:08:57] Orc zadaje 15 obra¿eñ. HP skibidi: 160
+[2025-04-13 00:08:57] Orc zadaje 17 obra¿eñ. HP skibidi: 143
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 29
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:57] Walka: skibidi vs Orc
+[2025-04-13 00:08:57] Orc zadaje 15 obra¿eñ. HP skibidi: 185
+[2025-04-13 00:08:57] skibidi zadaje 29 obra¿eñ. HP Orc: 121
+[2025-04-13 00:08:57] Orc zadaje 13 obra¿eñ. HP skibidi: 172
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 91
+[2025-04-13 00:08:57] skibidi zadaje 29 obra¿eñ. HP Orc: 62
+[2025-04-13 00:08:57] Orc zadaje 12 obra¿eñ. HP skibidi: 160
+[2025-04-13 00:08:57] Orc zadaje 13 obra¿eñ. HP skibidi: 147
+[2025-04-13 00:08:57] skibidi zadaje 32 obra¿eñ. HP Orc: 30
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:57] Walka: skibidi vs Orc
+[2025-04-13 00:08:57] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:08:57] Orc zadaje 15 obra¿eñ. HP skibidi: 185
+[2025-04-13 00:08:57] skibidi zadaje 32 obra¿eñ. HP Orc: 91
+[2025-04-13 00:08:57] Orc zadaje 17 obra¿eñ. HP skibidi: 168
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 61
+[2025-04-13 00:08:57] Orc zadaje 14 obra¿eñ. HP skibidi: 154
+[2025-04-13 00:08:57] skibidi zadaje 28 obra¿eñ. HP Orc: 33
+[2025-04-13 00:08:57] Orc zadaje 17 obra¿eñ. HP skibidi: 137
+[2025-04-13 00:08:57] skibidi zadaje 30 obra¿eñ. HP Orc: 3
+[2025-04-13 00:08:57] Orc zadaje 12 obra¿eñ. HP skibidi: 125
+[2025-04-13 00:08:57] Orc zadaje 16 obra¿eñ. HP skibidi: 109
+[2025-04-13 00:08:57] skibidi zadaje 32 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:57] Walka: skibidi vs Orc
+[2025-04-13 00:08:57] Orc zadaje 16 obra¿eñ. HP skibidi: 184
+[2025-04-13 00:08:57] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:08:57] skibidi zadaje 32 obra¿eñ. HP Orc: 91
+[2025-04-13 00:08:57] Orc zadaje 13 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:08:57] skibidi zadaje 32 obra¿eñ. HP Orc: 59
+[2025-04-13 00:08:57] Orc zadaje 16 obra¿eñ. HP skibidi: 155
+[2025-04-13 00:08:57] skibidi zadaje 27 obra¿eñ. HP Orc: 32
+[2025-04-13 00:08:57] Orc zadaje 15 obra¿eñ. HP skibidi: 140
+[2025-04-13 00:08:57] Orc zadaje 13 obra¿eñ. HP skibidi: 127
+[2025-04-13 00:08:57] skibidi zadaje 29 obra¿eñ. HP Orc: 3
+[2025-04-13 00:08:57] Orc zadaje 17 obra¿eñ. HP skibidi: 110
+[2025-04-13 00:08:57] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:58] Walka: skibidi vs Orc
+[2025-04-13 00:08:58] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:08:58] skibidi zadaje 32 obra¿eñ. HP Orc: 118
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 88
+[2025-04-13 00:08:58] Orc zadaje 17 obra¿eñ. HP skibidi: 169
+[2025-04-13 00:08:58] Orc zadaje 12 obra¿eñ. HP skibidi: 157
+[2025-04-13 00:08:58] skibidi zadaje 31 obra¿eñ. HP Orc: 57
+[2025-04-13 00:08:58] Orc zadaje 16 obra¿eñ. HP skibidi: 141
+[2025-04-13 00:08:58] skibidi zadaje 28 obra¿eñ. HP Orc: 29
+[2025-04-13 00:08:58] skibidi zadaje 27 obra¿eñ. HP Orc: 2
+[2025-04-13 00:08:58] Orc zadaje 16 obra¿eñ. HP skibidi: 125
+[2025-04-13 00:08:58] skibidi zadaje 31 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:58] Walka: skibidi vs Orc
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:08:58] Orc zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 90
+[2025-04-13 00:08:58] Orc zadaje 17 obra¿eñ. HP skibidi: 166
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 60
+[2025-04-13 00:08:58] Orc zadaje 14 obra¿eñ. HP skibidi: 152
+[2025-04-13 00:08:58] Orc zadaje 16 obra¿eñ. HP skibidi: 136
+[2025-04-13 00:08:58] skibidi zadaje 28 obra¿eñ. HP Orc: 32
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 2
+[2025-04-13 00:08:58] Orc zadaje 15 obra¿eñ. HP skibidi: 121
+[2025-04-13 00:08:58] Orc zadaje 15 obra¿eñ. HP skibidi: 106
+[2025-04-13 00:08:58] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:58] Walka: skibidi vs Orc
+[2025-04-13 00:08:58] skibidi zadaje 28 obra¿eñ. HP Orc: 122
+[2025-04-13 00:08:58] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:08:58] Orc zadaje 15 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 92
+[2025-04-13 00:08:58] Orc zadaje 13 obra¿eñ. HP skibidi: 158
+[2025-04-13 00:08:58] skibidi zadaje 32 obra¿eñ. HP Orc: 60
+[2025-04-13 00:08:58] skibidi zadaje 27 obra¿eñ. HP Orc: 33
+[2025-04-13 00:08:58] Orc zadaje 13 obra¿eñ. HP skibidi: 145
+[2025-04-13 00:08:58] Orc zadaje 14 obra¿eñ. HP skibidi: 131
+[2025-04-13 00:08:58] skibidi zadaje 31 obra¿eñ. HP Orc: 2
+[2025-04-13 00:08:58] Orc zadaje 16 obra¿eñ. HP skibidi: 115
+[2025-04-13 00:08:58] skibidi zadaje 29 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:58] Walka: skibidi vs Orc
+[2025-04-13 00:08:58] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:08:58] skibidi zadaje 30 obra¿eñ. HP Orc: 90
+[2025-04-13 00:08:58] Orc zadaje 14 obra¿eñ. HP skibidi: 172
+[2025-04-13 00:08:58] Orc zadaje 16 obra¿eñ. HP skibidi: 156
+[2025-04-13 00:08:58] skibidi zadaje 28 obra¿eñ. HP Orc: 62
+[2025-04-13 00:08:58] skibidi zadaje 32 obra¿eñ. HP Orc: 30
+[2025-04-13 00:08:58] Orc zadaje 12 obra¿eñ. HP skibidi: 144
+[2025-04-13 00:08:58] Orc zadaje 12 obra¿eñ. HP skibidi: 132
+[2025-04-13 00:08:58] skibidi zadaje 29 obra¿eñ. HP Orc: 1
+[2025-04-13 00:08:58] skibidi zadaje 28 obra¿eñ. HP Orc: 0
+[2025-04-13 00:08:58] Walka: skibidi vs Bandit
+[2025-04-13 00:08:58] Bandit zadaje 12 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:08:58] skibidi zadaje 27 obra¿eñ. HP Bandit: 73
+[2025-04-13 00:08:58] skibidi zadaje 29 obra¿eñ. HP Bandit: 44
+[2025-04-13 00:08:58] Bandit zadaje 14 obra¿eñ. HP skibidi: 174
+[2025-04-13 00:08:58] skibidi zadaje 29 obra¿eñ. HP Bandit: 15
+[2025-04-13 00:08:58] Bandit zadaje 9 obra¿eñ. HP skibidi: 165
+[2025-04-13 00:08:58] skibidi zadaje 31 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:01] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:01] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:01] skibidi zadaje 32 obra¿eñ. HP Bot Easy: 18
+[2025-04-13 00:09:01] skibidi zadaje 27 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:03] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:03] skibidi zadaje 31 obra¿eñ. HP Bot Easy: 19
+[2025-04-13 00:09:03] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:03] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:03] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:03] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:03] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 22
+[2025-04-13 00:09:03] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:03] skibidi zadaje 32 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:03] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:03] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:03] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 22
+[2025-04-13 00:09:03] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:03] skibidi zadaje 27 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:04] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:04] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 22
+[2025-04-13 00:09:04] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:04] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:04] skibidi zadaje 32 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:04] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:04] skibidi zadaje 32 obra¿eñ. HP Bot Easy: 18
+[2025-04-13 00:09:04] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:04] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:04] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:04] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:04] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 20
+[2025-04-13 00:09:04] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:05] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:05] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 22
+[2025-04-13 00:09:05] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:05] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:05] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:05] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:05] skibidi zadaje 31 obra¿eñ. HP Bot Easy: 19
+[2025-04-13 00:09:05] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:05] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:05] skibidi zadaje 31 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:06] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:06] Bot Easy zadaje 6 obra¿eñ. HP skibidi: 194
+[2025-04-13 00:09:06] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 20
+[2025-04-13 00:09:06] Bot Easy zadaje 6 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:09:06] skibidi zadaje 27 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:21] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:21] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 20
+[2025-04-13 00:09:21] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:21] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:21] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:22] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:22] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 22
+[2025-04-13 00:09:22] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:22] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:22] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:22] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:22] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:22] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 20
+[2025-04-13 00:09:22] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:22] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:23] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:23] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:23] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 21
+[2025-04-13 00:09:23] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:23] skibidi zadaje 31 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:23] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:23] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:23] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 20
+[2025-04-13 00:09:23] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:24] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:24] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 21
+[2025-04-13 00:09:24] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:24] skibidi zadaje 28 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:24] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:24] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:24] skibidi zadaje 32 obra¿eñ. HP Bot Easy: 18
+[2025-04-13 00:09:24] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:24] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:24] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:24] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 20
+[2025-04-13 00:09:24] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:24] skibidi zadaje 32 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:24] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:24] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:24] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 21
+[2025-04-13 00:09:24] skibidi zadaje 27 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:24] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:24] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:24] skibidi zadaje 31 obra¿eñ. HP Bot Easy: 19
+[2025-04-13 00:09:24] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:24] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:24] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:24] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 21
+[2025-04-13 00:09:24] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:24] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:25] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:25] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:25] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 21
+[2025-04-13 00:09:25] skibidi zadaje 27 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:25] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:25] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:25] skibidi zadaje 31 obra¿eñ. HP Bot Easy: 19
+[2025-04-13 00:09:25] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:25] skibidi zadaje 29 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:32] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:32] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:32] skibidi zadaje 32 obra¿eñ. HP Bot Easy: 18
+[2025-04-13 00:09:32] Bot Easy zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:32] skibidi zadaje 31 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:32] Walka: skibidi vs Bot Easy
+[2025-04-13 00:09:32] Bot Easy zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:32] skibidi zadaje 30 obra¿eñ. HP Bot Easy: 20
+[2025-04-13 00:09:32] skibidi zadaje 27 obra¿eñ. HP Bot Easy: 0
+[2025-04-13 00:09:35] Walka: skibidi vs Bandit
+[2025-04-13 00:09:35] skibidi zadaje 30 obra¿eñ. HP Bandit: 70
+[2025-04-13 00:09:35] Bandit zadaje 10 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:35] skibidi zadaje 27 obra¿eñ. HP Bandit: 43
+[2025-04-13 00:09:35] Bandit zadaje 11 obra¿eñ. HP skibidi: 179
+[2025-04-13 00:09:35] skibidi zadaje 30 obra¿eñ. HP Bandit: 13
+[2025-04-13 00:09:35] Bandit zadaje 7 obra¿eñ. HP skibidi: 172
+[2025-04-13 00:09:35] skibidi zadaje 30 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:35] Walka: skibidi vs Goblin
+[2025-04-13 00:09:35] Goblin zadaje 4 obra¿eñ. HP skibidi: 196
+[2025-04-13 00:09:35] skibidi zadaje 31 obra¿eñ. HP Goblin: 19
+[2025-04-13 00:09:35] skibidi zadaje 28 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:36] Walka: skibidi vs Bandit
+[2025-04-13 00:09:36] Bandit zadaje 6 obra¿eñ. HP skibidi: 194
+[2025-04-13 00:09:36] skibidi zadaje 31 obra¿eñ. HP Bandit: 69
+[2025-04-13 00:09:36] skibidi zadaje 31 obra¿eñ. HP Bandit: 38
+[2025-04-13 00:09:36] Bandit zadaje 12 obra¿eñ. HP skibidi: 182
+[2025-04-13 00:09:36] skibidi zadaje 30 obra¿eñ. HP Bandit: 8
+[2025-04-13 00:09:36] Bandit zadaje 18 obra¿eñ. HP skibidi: 164
+[2025-04-13 00:09:36] Bandit zadaje 11 obra¿eñ. HP skibidi: 153
+[2025-04-13 00:09:36] skibidi zadaje 30 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:36] Walka: skibidi vs Orc
+[2025-04-13 00:09:36] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:09:36] Orc zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:09:36] skibidi zadaje 28 obra¿eñ. HP Orc: 92
+[2025-04-13 00:09:36] Orc zadaje 17 obra¿eñ. HP skibidi: 166
+[2025-04-13 00:09:36] Orc zadaje 12 obra¿eñ. HP skibidi: 154
+[2025-04-13 00:09:36] skibidi zadaje 28 obra¿eñ. HP Orc: 64
+[2025-04-13 00:09:36] Orc zadaje 17 obra¿eñ. HP skibidi: 137
+[2025-04-13 00:09:36] skibidi zadaje 29 obra¿eñ. HP Orc: 35
+[2025-04-13 00:09:36] Orc zadaje 12 obra¿eñ. HP skibidi: 125
+[2025-04-13 00:09:36] skibidi zadaje 28 obra¿eñ. HP Orc: 7
+[2025-04-13 00:09:36] Orc zadaje 12 obra¿eñ. HP skibidi: 113
+[2025-04-13 00:09:36] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:38] Walka: skibidi vs Bandit
+[2025-04-13 00:09:38] Bandit zadaje 8 obra¿eñ. HP skibidi: 192
+[2025-04-13 00:09:38] skibidi zadaje 29 obra¿eñ. HP Bandit: 71
+[2025-04-13 00:09:38] Bandit zadaje 16 obra¿eñ. HP skibidi: 176
+[2025-04-13 00:09:38] skibidi zadaje 30 obra¿eñ. HP Bandit: 41
+[2025-04-13 00:09:38] Bandit zadaje 12 obra¿eñ. HP skibidi: 164
+[2025-04-13 00:09:38] skibidi zadaje 29 obra¿eñ. HP Bandit: 12
+[2025-04-13 00:09:38] Bandit zadaje 6 obra¿eñ. HP skibidi: 158
+[2025-04-13 00:09:38] skibidi zadaje 31 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:39] Walka: skibidi vs Orc
+[2025-04-13 00:09:39] Orc zadaje 15 obra¿eñ. HP skibidi: 185
+[2025-04-13 00:09:39] skibidi zadaje 31 obra¿eñ. HP Orc: 119
+[2025-04-13 00:09:39] skibidi zadaje 31 obra¿eñ. HP Orc: 88
+[2025-04-13 00:09:39] Orc zadaje 15 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:39] Orc zadaje 14 obra¿eñ. HP skibidi: 156
+[2025-04-13 00:09:39] skibidi zadaje 31 obra¿eñ. HP Orc: 57
+[2025-04-13 00:09:39] skibidi zadaje 32 obra¿eñ. HP Orc: 25
+[2025-04-13 00:09:39] Orc zadaje 13 obra¿eñ. HP skibidi: 143
+[2025-04-13 00:09:39] Orc zadaje 14 obra¿eñ. HP skibidi: 129
+[2025-04-13 00:09:39] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:40] Walka: skibidi vs Goblin
+[2025-04-13 00:09:40] skibidi zadaje 29 obra¿eñ. HP Goblin: 21
+[2025-04-13 00:09:40] Goblin zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:40] Goblin zadaje 4 obra¿eñ. HP skibidi: 191
+[2025-04-13 00:09:40] skibidi zadaje 27 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:41] Walka: skibidi vs Bandit
+[2025-04-13 00:09:41] Bandit zadaje 11 obra¿eñ. HP skibidi: 189
+[2025-04-13 00:09:41] skibidi zadaje 31 obra¿eñ. HP Bandit: 69
+[2025-04-13 00:09:41] skibidi zadaje 27 obra¿eñ. HP Bandit: 42
+[2025-04-13 00:09:41] Bandit zadaje 10 obra¿eñ. HP skibidi: 179
+[2025-04-13 00:09:41] Bandit zadaje 6 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:09:41] skibidi zadaje 29 obra¿eñ. HP Bandit: 13
+[2025-04-13 00:09:41] skibidi zadaje 32 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:42] Walka: skibidi vs Bandit
+[2025-04-13 00:09:42] skibidi zadaje 32 obra¿eñ. HP Bandit: 68
+[2025-04-13 00:09:42] Bandit zadaje 6 obra¿eñ. HP skibidi: 194
+[2025-04-13 00:09:42] Bandit zadaje 14 obra¿eñ. HP skibidi: 180
+[2025-04-13 00:09:42] skibidi zadaje 30 obra¿eñ. HP Bandit: 38
+[2025-04-13 00:09:42] Bandit zadaje 9 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:42] skibidi zadaje 29 obra¿eñ. HP Bandit: 9
+[2025-04-13 00:09:42] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:42] Walka: skibidi vs Bandit
+[2025-04-13 00:09:42] skibidi zadaje 29 obra¿eñ. HP Bandit: 71
+[2025-04-13 00:09:42] Bandit zadaje 16 obra¿eñ. HP skibidi: 184
+[2025-04-13 00:09:42] skibidi zadaje 27 obra¿eñ. HP Bandit: 44
+[2025-04-13 00:09:42] Bandit zadaje 18 obra¿eñ. HP skibidi: 166
+[2025-04-13 00:09:42] skibidi zadaje 30 obra¿eñ. HP Bandit: 14
+[2025-04-13 00:09:42] Bandit zadaje 13 obra¿eñ. HP skibidi: 153
+[2025-04-13 00:09:42] skibidi zadaje 27 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:43] Walka: skibidi vs Orc
+[2025-04-13 00:09:43] skibidi zadaje 28 obra¿eñ. HP Orc: 122
+[2025-04-13 00:09:43] Orc zadaje 15 obra¿eñ. HP skibidi: 185
+[2025-04-13 00:09:43] skibidi zadaje 30 obra¿eñ. HP Orc: 92
+[2025-04-13 00:09:43] Orc zadaje 12 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:09:43] Orc zadaje 16 obra¿eñ. HP skibidi: 157
+[2025-04-13 00:09:43] skibidi zadaje 28 obra¿eñ. HP Orc: 64
+[2025-04-13 00:09:43] skibidi zadaje 29 obra¿eñ. HP Orc: 35
+[2025-04-13 00:09:43] Orc zadaje 17 obra¿eñ. HP skibidi: 140
+[2025-04-13 00:09:43] skibidi zadaje 30 obra¿eñ. HP Orc: 5
+[2025-04-13 00:09:43] Orc zadaje 12 obra¿eñ. HP skibidi: 128
+[2025-04-13 00:09:43] skibidi zadaje 29 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:43] Walka: skibidi vs Orc
+[2025-04-13 00:09:43] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:09:43] Orc zadaje 12 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:09:43] skibidi zadaje 30 obra¿eñ. HP Orc: 90
+[2025-04-13 00:09:43] Orc zadaje 12 obra¿eñ. HP skibidi: 176
+[2025-04-13 00:09:43] skibidi zadaje 32 obra¿eñ. HP Orc: 58
+[2025-04-13 00:09:43] Orc zadaje 12 obra¿eñ. HP skibidi: 164
+[2025-04-13 00:09:43] skibidi zadaje 31 obra¿eñ. HP Orc: 27
+[2025-04-13 00:09:43] Orc zadaje 13 obra¿eñ. HP skibidi: 151
+[2025-04-13 00:09:43] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:43] Walka: skibidi vs Bandit
+[2025-04-13 00:09:43] skibidi zadaje 27 obra¿eñ. HP Bandit: 73
+[2025-04-13 00:09:43] Bandit zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:43] skibidi zadaje 31 obra¿eñ. HP Bandit: 42
+[2025-04-13 00:09:43] Bandit zadaje 6 obra¿eñ. HP skibidi: 180
+[2025-04-13 00:09:43] Bandit zadaje 18 obra¿eñ. HP skibidi: 162
+[2025-04-13 00:09:43] skibidi zadaje 29 obra¿eñ. HP Bandit: 13
+[2025-04-13 00:09:43] skibidi zadaje 32 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:43] Walka: skibidi vs Orc
+[2025-04-13 00:09:43] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:43] skibidi zadaje 28 obra¿eñ. HP Orc: 122
+[2025-04-13 00:09:43] skibidi zadaje 32 obra¿eñ. HP Orc: 90
+[2025-04-13 00:09:43] Orc zadaje 16 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:43] Orc zadaje 13 obra¿eñ. HP skibidi: 157
+[2025-04-13 00:09:43] skibidi zadaje 30 obra¿eñ. HP Orc: 60
+[2025-04-13 00:09:43] Orc zadaje 14 obra¿eñ. HP skibidi: 143
+[2025-04-13 00:09:43] skibidi zadaje 30 obra¿eñ. HP Orc: 30
+[2025-04-13 00:09:43] skibidi zadaje 27 obra¿eñ. HP Orc: 3
+[2025-04-13 00:09:43] Orc zadaje 13 obra¿eñ. HP skibidi: 130
+[2025-04-13 00:09:43] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:43] Walka: skibidi vs Bandit
+[2025-04-13 00:09:43] Bandit zadaje 12 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:09:43] skibidi zadaje 29 obra¿eñ. HP Bandit: 71
+[2025-04-13 00:09:43] skibidi zadaje 32 obra¿eñ. HP Bandit: 39
+[2025-04-13 00:09:43] Bandit zadaje 9 obra¿eñ. HP skibidi: 179
+[2025-04-13 00:09:43] skibidi zadaje 32 obra¿eñ. HP Bandit: 7
+[2025-04-13 00:09:43] Bandit zadaje 8 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:43] Bandit zadaje 15 obra¿eñ. HP skibidi: 156
+[2025-04-13 00:09:43] skibidi zadaje 32 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:44] Walka: skibidi vs Bandit
+[2025-04-13 00:09:44] skibidi zadaje 28 obra¿eñ. HP Bandit: 72
+[2025-04-13 00:09:44] Bandit zadaje 16 obra¿eñ. HP skibidi: 184
+[2025-04-13 00:09:44] skibidi zadaje 27 obra¿eñ. HP Bandit: 45
+[2025-04-13 00:09:44] Bandit zadaje 12 obra¿eñ. HP skibidi: 172
+[2025-04-13 00:09:44] Bandit zadaje 16 obra¿eñ. HP skibidi: 156
+[2025-04-13 00:09:44] skibidi zadaje 30 obra¿eñ. HP Bandit: 15
+[2025-04-13 00:09:44] skibidi zadaje 27 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:44] Walka: skibidi vs Goblin
+[2025-04-13 00:09:44] skibidi zadaje 29 obra¿eñ. HP Goblin: 21
+[2025-04-13 00:09:44] Goblin zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:44] Goblin zadaje 3 obra¿eñ. HP skibidi: 192
+[2025-04-13 00:09:44] skibidi zadaje 32 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:44] Walka: skibidi vs Bandit
+[2025-04-13 00:09:44] skibidi zadaje 30 obra¿eñ. HP Bandit: 70
+[2025-04-13 00:09:44] Bandit zadaje 12 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:09:44] Bandit zadaje 10 obra¿eñ. HP skibidi: 178
+[2025-04-13 00:09:44] skibidi zadaje 29 obra¿eñ. HP Bandit: 41
+[2025-04-13 00:09:44] Bandit zadaje 8 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:44] skibidi zadaje 28 obra¿eñ. HP Bandit: 13
+[2025-04-13 00:09:44] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:44] Walka: skibidi vs Bandit
+[2025-04-13 00:09:44] Bandit zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:44] skibidi zadaje 29 obra¿eñ. HP Bandit: 71
+[2025-04-13 00:09:44] Bandit zadaje 15 obra¿eñ. HP skibidi: 172
+[2025-04-13 00:09:44] skibidi zadaje 32 obra¿eñ. HP Bandit: 39
+[2025-04-13 00:09:44] skibidi zadaje 27 obra¿eñ. HP Bandit: 12
+[2025-04-13 00:09:44] Bandit zadaje 14 obra¿eñ. HP skibidi: 158
+[2025-04-13 00:09:44] Bandit zadaje 7 obra¿eñ. HP skibidi: 151
+[2025-04-13 00:09:44] skibidi zadaje 31 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:44] Walka: skibidi vs Orc
+[2025-04-13 00:09:44] skibidi zadaje 31 obra¿eñ. HP Orc: 119
+[2025-04-13 00:09:44] Orc zadaje 16 obra¿eñ. HP skibidi: 184
+[2025-04-13 00:09:44] Orc zadaje 14 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:44] skibidi zadaje 30 obra¿eñ. HP Orc: 89
+[2025-04-13 00:09:44] Orc zadaje 15 obra¿eñ. HP skibidi: 155
+[2025-04-13 00:09:44] skibidi zadaje 31 obra¿eñ. HP Orc: 58
+[2025-04-13 00:09:44] skibidi zadaje 31 obra¿eñ. HP Orc: 27
+[2025-04-13 00:09:44] Orc zadaje 13 obra¿eñ. HP skibidi: 142
+[2025-04-13 00:09:44] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:45] Walka: skibidi vs Goblin
+[2025-04-13 00:09:45] Goblin zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:45] skibidi zadaje 27 obra¿eñ. HP Goblin: 23
+[2025-04-13 00:09:45] Goblin zadaje 5 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:45] skibidi zadaje 29 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:45] Walka: skibidi vs Goblin
+[2025-04-13 00:09:45] Goblin zadaje 3 obra¿eñ. HP skibidi: 197
+[2025-04-13 00:09:45] skibidi zadaje 28 obra¿eñ. HP Goblin: 22
+[2025-04-13 00:09:45] skibidi zadaje 30 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:45] Walka: skibidi vs Bandit
+[2025-04-13 00:09:45] skibidi zadaje 27 obra¿eñ. HP Bandit: 73
+[2025-04-13 00:09:45] Bandit zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:09:45] Bandit zadaje 10 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:09:45] skibidi zadaje 27 obra¿eñ. HP Bandit: 46
+[2025-04-13 00:09:45] Bandit zadaje 14 obra¿eñ. HP skibidi: 159
+[2025-04-13 00:09:45] skibidi zadaje 30 obra¿eñ. HP Bandit: 16
+[2025-04-13 00:09:45] skibidi zadaje 32 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:45] Walka: skibidi vs Orc
+[2025-04-13 00:09:45] Orc zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:45] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:09:45] skibidi zadaje 32 obra¿eñ. HP Orc: 88
+[2025-04-13 00:09:45] Orc zadaje 16 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:45] skibidi zadaje 32 obra¿eñ. HP Orc: 56
+[2025-04-13 00:09:45] Orc zadaje 17 obra¿eñ. HP skibidi: 154
+[2025-04-13 00:09:45] skibidi zadaje 31 obra¿eñ. HP Orc: 25
+[2025-04-13 00:09:45] Orc zadaje 16 obra¿eñ. HP skibidi: 138
+[2025-04-13 00:09:45] Orc zadaje 13 obra¿eñ. HP skibidi: 125
+[2025-04-13 00:09:45] skibidi zadaje 32 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:45] Walka: skibidi vs Goblin
+[2025-04-13 00:09:45] skibidi zadaje 29 obra¿eñ. HP Goblin: 21
+[2025-04-13 00:09:45] Goblin zadaje 6 obra¿eñ. HP skibidi: 194
+[2025-04-13 00:09:45] skibidi zadaje 28 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:45] Walka: skibidi vs Orc
+[2025-04-13 00:09:45] skibidi zadaje 32 obra¿eñ. HP Orc: 118
+[2025-04-13 00:09:45] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:45] skibidi zadaje 27 obra¿eñ. HP Orc: 91
+[2025-04-13 00:09:45] Orc zadaje 16 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:45] Orc zadaje 13 obra¿eñ. HP skibidi: 157
+[2025-04-13 00:09:45] skibidi zadaje 27 obra¿eñ. HP Orc: 64
+[2025-04-13 00:09:45] Orc zadaje 14 obra¿eñ. HP skibidi: 143
+[2025-04-13 00:09:45] skibidi zadaje 29 obra¿eñ. HP Orc: 35
+[2025-04-13 00:09:45] Orc zadaje 17 obra¿eñ. HP skibidi: 126
+[2025-04-13 00:09:45] skibidi zadaje 27 obra¿eñ. HP Orc: 8
+[2025-04-13 00:09:45] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:46] Walka: skibidi vs Goblin
+[2025-04-13 00:09:46] Goblin zadaje 8 obra¿eñ. HP skibidi: 192
+[2025-04-13 00:09:46] skibidi zadaje 27 obra¿eñ. HP Goblin: 23
+[2025-04-13 00:09:46] Goblin zadaje 4 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:09:46] skibidi zadaje 32 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:46] Walka: skibidi vs Orc
+[2025-04-13 00:09:46] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:09:46] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:46] skibidi zadaje 28 obra¿eñ. HP Orc: 95
+[2025-04-13 00:09:46] Orc zadaje 15 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:46] skibidi zadaje 30 obra¿eñ. HP Orc: 65
+[2025-04-13 00:09:46] Orc zadaje 15 obra¿eñ. HP skibidi: 156
+[2025-04-13 00:09:46] Orc zadaje 16 obra¿eñ. HP skibidi: 140
+[2025-04-13 00:09:46] skibidi zadaje 31 obra¿eñ. HP Orc: 34
+[2025-04-13 00:09:46] Orc zadaje 13 obra¿eñ. HP skibidi: 127
+[2025-04-13 00:09:46] skibidi zadaje 32 obra¿eñ. HP Orc: 2
+[2025-04-13 00:09:46] Orc zadaje 13 obra¿eñ. HP skibidi: 114
+[2025-04-13 00:09:46] skibidi zadaje 31 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:46] Walka: skibidi vs Orc
+[2025-04-13 00:09:46] Orc zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:09:46] skibidi zadaje 31 obra¿eñ. HP Orc: 119
+[2025-04-13 00:09:46] skibidi zadaje 32 obra¿eñ. HP Orc: 87
+[2025-04-13 00:09:46] Orc zadaje 13 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:46] skibidi zadaje 29 obra¿eñ. HP Orc: 58
+[2025-04-13 00:09:46] Orc zadaje 17 obra¿eñ. HP skibidi: 153
+[2025-04-13 00:09:46] Orc zadaje 15 obra¿eñ. HP skibidi: 138
+[2025-04-13 00:09:46] skibidi zadaje 27 obra¿eñ. HP Orc: 31
+[2025-04-13 00:09:46] skibidi zadaje 28 obra¿eñ. HP Orc: 3
+[2025-04-13 00:09:46] Orc zadaje 17 obra¿eñ. HP skibidi: 121
+[2025-04-13 00:09:46] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:46] Walka: skibidi vs Goblin
+[2025-04-13 00:09:46] Goblin zadaje 8 obra¿eñ. HP skibidi: 192
+[2025-04-13 00:09:46] skibidi zadaje 29 obra¿eñ. HP Goblin: 21
+[2025-04-13 00:09:46] skibidi zadaje 28 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:46] Walka: skibidi vs Goblin
+[2025-04-13 00:09:46] Goblin zadaje 6 obra¿eñ. HP skibidi: 194
+[2025-04-13 00:09:46] skibidi zadaje 32 obra¿eñ. HP Goblin: 18
+[2025-04-13 00:09:46] Goblin zadaje 4 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:46] skibidi zadaje 30 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:47] Walka: skibidi vs Orc
+[2025-04-13 00:09:47] Orc zadaje 12 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:09:47] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:09:47] skibidi zadaje 31 obra¿eñ. HP Orc: 92
+[2025-04-13 00:09:47] Orc zadaje 15 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:09:47] skibidi zadaje 30 obra¿eñ. HP Orc: 62
+[2025-04-13 00:09:47] Orc zadaje 12 obra¿eñ. HP skibidi: 161
+[2025-04-13 00:09:47] Orc zadaje 13 obra¿eñ. HP skibidi: 148
+[2025-04-13 00:09:47] skibidi zadaje 28 obra¿eñ. HP Orc: 34
+[2025-04-13 00:09:47] Orc zadaje 14 obra¿eñ. HP skibidi: 134
+[2025-04-13 00:09:47] skibidi zadaje 31 obra¿eñ. HP Orc: 3
+[2025-04-13 00:09:47] Orc zadaje 16 obra¿eñ. HP skibidi: 118
+[2025-04-13 00:09:47] skibidi zadaje 31 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:47] Walka: skibidi vs Goblin
+[2025-04-13 00:09:47] Goblin zadaje 4 obra¿eñ. HP skibidi: 196
+[2025-04-13 00:09:47] skibidi zadaje 27 obra¿eñ. HP Goblin: 23
+[2025-04-13 00:09:47] Goblin zadaje 6 obra¿eñ. HP skibidi: 190
+[2025-04-13 00:09:47] skibidi zadaje 27 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:47] Walka: skibidi vs Goblin
+[2025-04-13 00:09:47] Goblin zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:47] skibidi zadaje 32 obra¿eñ. HP Goblin: 18
+[2025-04-13 00:09:47] Goblin zadaje 4 obra¿eñ. HP skibidi: 189
+[2025-04-13 00:09:47] skibidi zadaje 30 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:48] Walka: skibidi vs Orc
+[2025-04-13 00:09:48] Orc zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:48] skibidi zadaje 32 obra¿eñ. HP Orc: 118
+[2025-04-13 00:09:48] skibidi zadaje 31 obra¿eñ. HP Orc: 87
+[2025-04-13 00:09:48] Orc zadaje 14 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:09:48] Orc zadaje 15 obra¿eñ. HP skibidi: 158
+[2025-04-13 00:09:48] skibidi zadaje 31 obra¿eñ. HP Orc: 56
+[2025-04-13 00:09:48] skibidi zadaje 31 obra¿eñ. HP Orc: 25
+[2025-04-13 00:09:48] Orc zadaje 13 obra¿eñ. HP skibidi: 145
+[2025-04-13 00:09:48] Orc zadaje 12 obra¿eñ. HP skibidi: 133
+[2025-04-13 00:09:48] skibidi zadaje 28 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:48] Walka: skibidi vs Orc
+[2025-04-13 00:09:48] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:09:48] Orc zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:09:48] skibidi zadaje 30 obra¿eñ. HP Orc: 90
+[2025-04-13 00:09:48] Orc zadaje 17 obra¿eñ. HP skibidi: 166
+[2025-04-13 00:09:48] Orc zadaje 15 obra¿eñ. HP skibidi: 151
+[2025-04-13 00:09:48] skibidi zadaje 28 obra¿eñ. HP Orc: 62
+[2025-04-13 00:09:48] skibidi zadaje 29 obra¿eñ. HP Orc: 33
+[2025-04-13 00:09:48] Orc zadaje 14 obra¿eñ. HP skibidi: 137
+[2025-04-13 00:09:48] Orc zadaje 17 obra¿eñ. HP skibidi: 120
+[2025-04-13 00:09:48] skibidi zadaje 29 obra¿eñ. HP Orc: 4
+[2025-04-13 00:09:48] Orc zadaje 17 obra¿eñ. HP skibidi: 103
+[2025-04-13 00:09:48] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:55] Walka: skibidi vs Goblin
+[2025-04-13 00:09:55] skibidi zadaje 28 obra¿eñ. HP Goblin: 22
+[2025-04-13 00:09:55] Goblin zadaje 3 obra¿eñ. HP skibidi: 197
+[2025-04-13 00:09:55] skibidi zadaje 32 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:55] Walka: skibidi vs Orc
+[2025-04-13 00:09:55] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:09:55] Orc zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:55] Orc zadaje 12 obra¿eñ. HP skibidi: 175
+[2025-04-13 00:09:55] skibidi zadaje 27 obra¿eñ. HP Orc: 96
+[2025-04-13 00:09:55] Orc zadaje 13 obra¿eñ. HP skibidi: 162
+[2025-04-13 00:09:55] skibidi zadaje 31 obra¿eñ. HP Orc: 65
+[2025-04-13 00:09:55] Orc zadaje 17 obra¿eñ. HP skibidi: 145
+[2025-04-13 00:09:55] skibidi zadaje 32 obra¿eñ. HP Orc: 33
+[2025-04-13 00:09:55] Orc zadaje 13 obra¿eñ. HP skibidi: 132
+[2025-04-13 00:09:55] skibidi zadaje 32 obra¿eñ. HP Orc: 1
+[2025-04-13 00:09:55] Orc zadaje 16 obra¿eñ. HP skibidi: 116
+[2025-04-13 00:09:55] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:55] Walka: skibidi vs Orc
+[2025-04-13 00:09:55] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:55] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:09:55] skibidi zadaje 29 obra¿eñ. HP Orc: 94
+[2025-04-13 00:09:55] Orc zadaje 17 obra¿eñ. HP skibidi: 169
+[2025-04-13 00:09:55] Orc zadaje 17 obra¿eñ. HP skibidi: 152
+[2025-04-13 00:09:55] skibidi zadaje 28 obra¿eñ. HP Orc: 66
+[2025-04-13 00:09:55] skibidi zadaje 31 obra¿eñ. HP Orc: 35
+[2025-04-13 00:09:55] Orc zadaje 13 obra¿eñ. HP skibidi: 139
+[2025-04-13 00:09:55] skibidi zadaje 32 obra¿eñ. HP Orc: 3
+[2025-04-13 00:09:55] Orc zadaje 16 obra¿eñ. HP skibidi: 123
+[2025-04-13 00:09:55] skibidi zadaje 29 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:55] Walka: skibidi vs Bandit
+[2025-04-13 00:09:55] skibidi zadaje 32 obra¿eñ. HP Bandit: 68
+[2025-04-13 00:09:55] Bandit zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:55] Bandit zadaje 8 obra¿eñ. HP skibidi: 179
+[2025-04-13 00:09:55] skibidi zadaje 32 obra¿eñ. HP Bandit: 36
+[2025-04-13 00:09:55] Bandit zadaje 11 obra¿eñ. HP skibidi: 168
+[2025-04-13 00:09:55] skibidi zadaje 29 obra¿eñ. HP Bandit: 7
+[2025-04-13 00:09:55] skibidi zadaje 27 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:56] Walka: skibidi vs Orc
+[2025-04-13 00:09:56] skibidi zadaje 28 obra¿eñ. HP Orc: 122
+[2025-04-13 00:09:56] Orc zadaje 15 obra¿eñ. HP skibidi: 185
+[2025-04-13 00:09:56] Orc zadaje 14 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:56] skibidi zadaje 31 obra¿eñ. HP Orc: 91
+[2025-04-13 00:09:56] Orc zadaje 16 obra¿eñ. HP skibidi: 155
+[2025-04-13 00:09:56] skibidi zadaje 27 obra¿eñ. HP Orc: 64
+[2025-04-13 00:09:56] skibidi zadaje 30 obra¿eñ. HP Orc: 34
+[2025-04-13 00:09:56] Orc zadaje 17 obra¿eñ. HP skibidi: 138
+[2025-04-13 00:09:56] Orc zadaje 14 obra¿eñ. HP skibidi: 124
+[2025-04-13 00:09:56] skibidi zadaje 32 obra¿eñ. HP Orc: 2
+[2025-04-13 00:09:56] Orc zadaje 17 obra¿eñ. HP skibidi: 107
+[2025-04-13 00:09:56] skibidi zadaje 28 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:56] Walka: skibidi vs Bandit
+[2025-04-13 00:09:56] skibidi zadaje 31 obra¿eñ. HP Bandit: 69
+[2025-04-13 00:09:56] Bandit zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:56] skibidi zadaje 30 obra¿eñ. HP Bandit: 39
+[2025-04-13 00:09:56] Bandit zadaje 10 obra¿eñ. HP skibidi: 177
+[2025-04-13 00:09:56] skibidi zadaje 28 obra¿eñ. HP Bandit: 11
+[2025-04-13 00:09:56] Bandit zadaje 11 obra¿eñ. HP skibidi: 166
+[2025-04-13 00:09:56] Bandit zadaje 14 obra¿eñ. HP skibidi: 152
+[2025-04-13 00:09:56] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:56] Walka: skibidi vs Goblin
+[2025-04-13 00:09:56] Goblin zadaje 3 obra¿eñ. HP skibidi: 197
+[2025-04-13 00:09:56] skibidi zadaje 32 obra¿eñ. HP Goblin: 18
+[2025-04-13 00:09:56] skibidi zadaje 28 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:56] Walka: skibidi vs Goblin
+[2025-04-13 00:09:56] skibidi zadaje 29 obra¿eñ. HP Goblin: 21
+[2025-04-13 00:09:56] Goblin zadaje 4 obra¿eñ. HP skibidi: 196
+[2025-04-13 00:09:56] Goblin zadaje 7 obra¿eñ. HP skibidi: 189
+[2025-04-13 00:09:56] skibidi zadaje 29 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:56] Walka: skibidi vs Goblin
+[2025-04-13 00:09:56] Goblin zadaje 3 obra¿eñ. HP skibidi: 197
+[2025-04-13 00:09:56] skibidi zadaje 30 obra¿eñ. HP Goblin: 20
+[2025-04-13 00:09:56] skibidi zadaje 27 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:56] Walka: skibidi vs Orc
+[2025-04-13 00:09:56] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:09:56] Orc zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:56] Orc zadaje 15 obra¿eñ. HP skibidi: 172
+[2025-04-13 00:09:56] skibidi zadaje 31 obra¿eñ. HP Orc: 89
+[2025-04-13 00:09:56] Orc zadaje 17 obra¿eñ. HP skibidi: 155
+[2025-04-13 00:09:56] skibidi zadaje 29 obra¿eñ. HP Orc: 60
+[2025-04-13 00:09:56] Orc zadaje 16 obra¿eñ. HP skibidi: 139
+[2025-04-13 00:09:56] skibidi zadaje 27 obra¿eñ. HP Orc: 33
+[2025-04-13 00:09:56] Orc zadaje 13 obra¿eñ. HP skibidi: 126
+[2025-04-13 00:09:56] skibidi zadaje 27 obra¿eñ. HP Orc: 6
+[2025-04-13 00:09:56] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:56] Walka: skibidi vs Goblin
+[2025-04-13 00:09:56] Goblin zadaje 4 obra¿eñ. HP skibidi: 196
+[2025-04-13 00:09:56] skibidi zadaje 27 obra¿eñ. HP Goblin: 23
+[2025-04-13 00:09:56] skibidi zadaje 29 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:57] Walka: skibidi vs Bandit
+[2025-04-13 00:09:57] Bandit zadaje 15 obra¿eñ. HP skibidi: 185
+[2025-04-13 00:09:57] skibidi zadaje 31 obra¿eñ. HP Bandit: 69
+[2025-04-13 00:09:57] skibidi zadaje 31 obra¿eñ. HP Bandit: 38
+[2025-04-13 00:09:57] Bandit zadaje 17 obra¿eñ. HP skibidi: 168
+[2025-04-13 00:09:57] Bandit zadaje 9 obra¿eñ. HP skibidi: 159
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Bandit: 11
+[2025-04-13 00:09:57] Bandit zadaje 6 obra¿eñ. HP skibidi: 153
+[2025-04-13 00:09:57] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:57] Walka: skibidi vs Goblin
+[2025-04-13 00:09:57] Goblin zadaje 6 obra¿eñ. HP skibidi: 194
+[2025-04-13 00:09:57] skibidi zadaje 31 obra¿eñ. HP Goblin: 19
+[2025-04-13 00:09:57] skibidi zadaje 28 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:57] Walka: skibidi vs Bandit
+[2025-04-13 00:09:57] Bandit zadaje 6 obra¿eñ. HP skibidi: 194
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Bandit: 73
+[2025-04-13 00:09:57] skibidi zadaje 30 obra¿eñ. HP Bandit: 43
+[2025-04-13 00:09:57] Bandit zadaje 6 obra¿eñ. HP skibidi: 188
+[2025-04-13 00:09:57] Bandit zadaje 15 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:09:57] skibidi zadaje 32 obra¿eñ. HP Bandit: 11
+[2025-04-13 00:09:57] Bandit zadaje 7 obra¿eñ. HP skibidi: 166
+[2025-04-13 00:09:57] skibidi zadaje 31 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:57] Walka: skibidi vs Orc
+[2025-04-13 00:09:57] Orc zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:09:57] skibidi zadaje 28 obra¿eñ. HP Orc: 95
+[2025-04-13 00:09:57] Orc zadaje 12 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:57] Orc zadaje 14 obra¿eñ. HP skibidi: 157
+[2025-04-13 00:09:57] skibidi zadaje 32 obra¿eñ. HP Orc: 63
+[2025-04-13 00:09:57] skibidi zadaje 28 obra¿eñ. HP Orc: 35
+[2025-04-13 00:09:57] Orc zadaje 15 obra¿eñ. HP skibidi: 142
+[2025-04-13 00:09:57] skibidi zadaje 28 obra¿eñ. HP Orc: 7
+[2025-04-13 00:09:57] Orc zadaje 16 obra¿eñ. HP skibidi: 126
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:57] Walka: skibidi vs Orc
+[2025-04-13 00:09:57] Orc zadaje 15 obra¿eñ. HP skibidi: 185
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Orc: 96
+[2025-04-13 00:09:57] Orc zadaje 16 obra¿eñ. HP skibidi: 169
+[2025-04-13 00:09:57] skibidi zadaje 28 obra¿eñ. HP Orc: 68
+[2025-04-13 00:09:57] Orc zadaje 13 obra¿eñ. HP skibidi: 156
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Orc: 41
+[2025-04-13 00:09:57] Orc zadaje 12 obra¿eñ. HP skibidi: 144
+[2025-04-13 00:09:57] skibidi zadaje 29 obra¿eñ. HP Orc: 12
+[2025-04-13 00:09:57] Orc zadaje 16 obra¿eñ. HP skibidi: 128
+[2025-04-13 00:09:57] skibidi zadaje 28 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:57] Walka: skibidi vs Goblin
+[2025-04-13 00:09:57] Goblin zadaje 5 obra¿eñ. HP skibidi: 195
+[2025-04-13 00:09:57] skibidi zadaje 31 obra¿eñ. HP Goblin: 19
+[2025-04-13 00:09:57] skibidi zadaje 27 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:58] Walka: skibidi vs Bandit
+[2025-04-13 00:09:58] skibidi zadaje 32 obra¿eñ. HP Bandit: 68
+[2025-04-13 00:09:58] Bandit zadaje 16 obra¿eñ. HP skibidi: 184
+[2025-04-13 00:09:58] Bandit zadaje 11 obra¿eñ. HP skibidi: 173
+[2025-04-13 00:09:58] skibidi zadaje 32 obra¿eñ. HP Bandit: 36
+[2025-04-13 00:09:58] skibidi zadaje 32 obra¿eñ. HP Bandit: 4
+[2025-04-13 00:09:58] Bandit zadaje 14 obra¿eñ. HP skibidi: 159
+[2025-04-13 00:09:58] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:58] Walka: skibidi vs Goblin
+[2025-04-13 00:09:58] Goblin zadaje 8 obra¿eñ. HP skibidi: 192
+[2025-04-13 00:09:58] skibidi zadaje 32 obra¿eñ. HP Goblin: 18
+[2025-04-13 00:09:58] skibidi zadaje 30 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:58] Walka: skibidi vs Orc
+[2025-04-13 00:09:58] skibidi zadaje 30 obra¿eñ. HP Orc: 120
+[2025-04-13 00:09:58] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:58] skibidi zadaje 27 obra¿eñ. HP Orc: 93
+[2025-04-13 00:09:58] Orc zadaje 17 obra¿eñ. HP skibidi: 169
+[2025-04-13 00:09:58] skibidi zadaje 31 obra¿eñ. HP Orc: 62
+[2025-04-13 00:09:58] Orc zadaje 17 obra¿eñ. HP skibidi: 152
+[2025-04-13 00:09:58] skibidi zadaje 29 obra¿eñ. HP Orc: 33
+[2025-04-13 00:09:58] Orc zadaje 15 obra¿eñ. HP skibidi: 137
+[2025-04-13 00:09:58] Orc zadaje 13 obra¿eñ. HP skibidi: 124
+[2025-04-13 00:09:58] skibidi zadaje 32 obra¿eñ. HP Orc: 1
+[2025-04-13 00:09:58] Orc zadaje 16 obra¿eñ. HP skibidi: 108
+[2025-04-13 00:09:58] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:58] Walka: skibidi vs Orc
+[2025-04-13 00:09:58] Orc zadaje 13 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:58] skibidi zadaje 27 obra¿eñ. HP Orc: 123
+[2025-04-13 00:09:58] Orc zadaje 13 obra¿eñ. HP skibidi: 174
+[2025-04-13 00:09:58] skibidi zadaje 31 obra¿eñ. HP Orc: 92
+[2025-04-13 00:09:58] Orc zadaje 15 obra¿eñ. HP skibidi: 159
+[2025-04-13 00:09:58] skibidi zadaje 31 obra¿eñ. HP Orc: 61
+[2025-04-13 00:09:58] Orc zadaje 13 obra¿eñ. HP skibidi: 146
+[2025-04-13 00:09:58] skibidi zadaje 31 obra¿eñ. HP Orc: 30
+[2025-04-13 00:09:58] Orc zadaje 17 obra¿eñ. HP skibidi: 129
+[2025-04-13 00:09:58] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:58] Walka: skibidi vs Bandit
+[2025-04-13 00:09:58] skibidi zadaje 27 obra¿eñ. HP Bandit: 73
+[2025-04-13 00:09:58] Bandit zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:58] skibidi zadaje 28 obra¿eñ. HP Bandit: 45
+[2025-04-13 00:09:58] Bandit zadaje 6 obra¿eñ. HP skibidi: 180
+[2025-04-13 00:09:58] skibidi zadaje 27 obra¿eñ. HP Bandit: 18
+[2025-04-13 00:09:58] Bandit zadaje 13 obra¿eñ. HP skibidi: 167
+[2025-04-13 00:09:58] Bandit zadaje 15 obra¿eñ. HP skibidi: 152
+[2025-04-13 00:09:58] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:58] Walka: skibidi vs Orc
+[2025-04-13 00:09:58] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:58] skibidi zadaje 32 obra¿eñ. HP Orc: 118
+[2025-04-13 00:09:58] Orc zadaje 15 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:58] skibidi zadaje 31 obra¿eñ. HP Orc: 87
+[2025-04-13 00:09:58] skibidi zadaje 31 obra¿eñ. HP Orc: 56
+[2025-04-13 00:09:58] Orc zadaje 12 obra¿eñ. HP skibidi: 159
+[2025-04-13 00:09:58] Orc zadaje 14 obra¿eñ. HP skibidi: 145
+[2025-04-13 00:09:58] skibidi zadaje 28 obra¿eñ. HP Orc: 28
+[2025-04-13 00:09:58] Orc zadaje 12 obra¿eñ. HP skibidi: 133
+[2025-04-13 00:09:58] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:59] Walka: skibidi vs Orc
+[2025-04-13 00:09:59] skibidi zadaje 29 obra¿eñ. HP Orc: 121
+[2025-04-13 00:09:59] Orc zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:59] Orc zadaje 15 obra¿eñ. HP skibidi: 171
+[2025-04-13 00:09:59] skibidi zadaje 29 obra¿eñ. HP Orc: 92
+[2025-04-13 00:09:59] skibidi zadaje 31 obra¿eñ. HP Orc: 61
+[2025-04-13 00:09:59] Orc zadaje 12 obra¿eñ. HP skibidi: 159
+[2025-04-13 00:09:59] Orc zadaje 14 obra¿eñ. HP skibidi: 145
+[2025-04-13 00:09:59] skibidi zadaje 27 obra¿eñ. HP Orc: 34
+[2025-04-13 00:09:59] skibidi zadaje 28 obra¿eñ. HP Orc: 6
+[2025-04-13 00:09:59] Orc zadaje 16 obra¿eñ. HP skibidi: 129
+[2025-04-13 00:09:59] skibidi zadaje 30 obra¿eñ. HP Orc: 0
+[2025-04-13 00:09:59] Walka: skibidi vs Bandit
+[2025-04-13 00:09:59] skibidi zadaje 30 obra¿eñ. HP Bandit: 70
+[2025-04-13 00:09:59] Bandit zadaje 17 obra¿eñ. HP skibidi: 183
+[2025-04-13 00:09:59] skibidi zadaje 28 obra¿eñ. HP Bandit: 42
+[2025-04-13 00:09:59] Bandit zadaje 13 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:59] Bandit zadaje 7 obra¿eñ. HP skibidi: 163
+[2025-04-13 00:09:59] skibidi zadaje 30 obra¿eñ. HP Bandit: 12
+[2025-04-13 00:09:59] Bandit zadaje 17 obra¿eñ. HP skibidi: 146
+[2025-04-13 00:09:59] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:59] Walka: skibidi vs Goblin
+[2025-04-13 00:09:59] Goblin zadaje 7 obra¿eñ. HP skibidi: 193
+[2025-04-13 00:09:59] skibidi zadaje 28 obra¿eñ. HP Goblin: 22
+[2025-04-13 00:09:59] Goblin zadaje 6 obra¿eñ. HP skibidi: 187
+[2025-04-13 00:09:59] skibidi zadaje 28 obra¿eñ. HP Goblin: 0
+[2025-04-13 00:09:59] Walka: skibidi vs Bandit
+[2025-04-13 00:09:59] Bandit zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:59] skibidi zadaje 28 obra¿eñ. HP Bandit: 72
+[2025-04-13 00:09:59] skibidi zadaje 29 obra¿eñ. HP Bandit: 43
+[2025-04-13 00:09:59] Bandit zadaje 6 obra¿eñ. HP skibidi: 180
+[2025-04-13 00:09:59] Bandit zadaje 17 obra¿eñ. HP skibidi: 163
+[2025-04-13 00:09:59] skibidi zadaje 29 obra¿eñ. HP Bandit: 14
+[2025-04-13 00:09:59] Bandit zadaje 8 obra¿eñ. HP skibidi: 155
+[2025-04-13 00:09:59] skibidi zadaje 27 obra¿eñ. HP Bandit: 0
+[2025-04-13 00:09:59] Walka: skibidi vs Bandit
+[2025-04-13 00:09:59] Bandit zadaje 14 obra¿eñ. HP skibidi: 186
+[2025-04-13 00:09:59] skibidi zadaje 27 obra¿eñ. HP Bandit: 73
+[2025-04-13 00:09:59] Bandit zadaje 16 obra¿eñ. HP skibidi: 170
+[2025-04-13 00:09:59] skibidi zadaje 29 obra¿eñ. HP Bandit: 44
+[2025-04-13 00:09:59] Bandit zadaje 13 obra¿eñ. HP skibidi: 157
+[2025-04-13 00:09:59] skibidi zadaje 28 obra¿eñ. HP Bandit: 16
+[2025-04-13 00:09:59] Bandit zadaje 15 obra¿eñ. HP skibidi: 142
+[2025-04-13 00:09:59] skibidi zadaje 29 obra¿eñ. HP Bandit: 0
