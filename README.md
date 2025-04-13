@@ -1,3 +1,5 @@
+WERSJA DEMONSTRACYJNA - BRAK POŁĄCZENIA MIĘDZY FRONTENDEM A BACKENDEM
+
 # Masters of the sword
 
 The game "Masters of the sword" allows players to create their own character, choose class and allocate stats, then fight against randomly  generated opponents. The gameplay is based on atuomatic battles, where the chances of using certain attacks are determined by percentages.
